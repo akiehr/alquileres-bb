@@ -1,0 +1,73 @@
+# Va en el repo como  .github/workflows/alquileres.yml
+name: Alquileres Bahía Blanca
+
+on:
+  schedule:
+    # GitHub corre los cron en UTC. Argentina es UTC-3, así que estas horas
+    # UTC equivalen a: 8, 10, 12, 14, 16, 18 y 20 hora argentina.
+    # Denso en horario laboral (que es cuando las inmobiliarias cargan avisos)
+    # y una sola pasada de madrugada para no dejar hueco.
+    - cron: "0 11,13,15,17,19,21,23 * * 1-5"   # lun a vie, 8 a 20 ARG
+    - cron: "0 14,18 * * 6,0"                  # sáb y dom, 11 y 15 ARG
+    - cron: "0 6 * * *"                        # todos los días, 3 ARG
+  workflow_dispatch:           # botón para correrlo a mano desde la web
+
+permissions:
+  contents: write              # necesario para commitear vistas.json e index.html
+
+concurrency:                   # nunca dos corridas pisándose
+  group: alquileres
+  cancel-in-progress: false
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install requests beautifulsoup4
+
+      - name: Buscar novedades
+        run: |
+          python alertas_alquiler.py \
+            --ciudad 1 --inmueble-id 1 --sin-filtro-local \
+            --delay 1.5 --resumen novedades.txt
+
+      - name: Generar el panel
+        run: |
+          python hacer_html.py
+          cp alquileres.html index.html
+
+      - name: Guardar el estado en el repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vistas.json alquileres.html index.html
+          # vistas.json cambia siempre (guarda la fecha), así que siempre hay commit.
+          # Eso además evita que GitHub desactive el cron por inactividad a los 60 días.
+          git diff --staged --quiet || git commit -m "Actualización $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Avisar si hay casas nuevas
+        if: success()
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          PANEL: ${{ format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) }}
+        run: |
+          if [ -s novedades.txt ] && [ -n "$NTFY_TOPIC" ]; then
+            TITULO=$(head -1 novedades.txt)
+            tail -n +2 novedades.txt | curl -sS \
+              -H "Title: $TITULO" \
+              -H "Tags: house" \
+              -H "Click: $PANEL" \
+              --data-binary @- \
+              "https://ntfy.sh/$NTFY_TOPIC" > /dev/null
+            echo "notificación enviada: $TITULO"
+          else
+            echo "sin novedades, no notifico"
+          fi

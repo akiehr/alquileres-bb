@@ -220,15 +220,15 @@ body.dragging #drop{display:flex}
   <div class="chips" id="chipsDorm"></div>
   <select id="barrio"></select>
   <select id="orden">
+    <option value="-nuevo">Últimas vistas primero</option>
     <option value="precio">Precio: menor primero</option>
     <option value="-precio">Precio: mayor primero</option>
     <option value="-dorm">Más dormitorios</option>
-    <option value="-nuevo">Publicadas hace menos</option>
     <option value="barrio">Barrio A–Z</option>
   </select>
   <div class="chips">
-    <button class="chip" id="tConsultar" aria-pressed="true">A consultar</button>
-    <button class="chip" id="tDolar" aria-pressed="true">U$S</button>
+    <button class="chip" id="tConsultar" aria-pressed="false">A consultar</button>
+    <button class="chip" id="tDolar" aria-pressed="false">U$S</button>
   </div>
 </div>
 
@@ -253,8 +253,8 @@ const href = u => /^https?:\/\//i.test(u || '') ? esc(u) : '#';
 const money = (m,p) => p==null ? null : (m==='U$S'?'U$S ':'$ ') + nf.format(p);
 const corto = n => n>=1e6 ? (n/1e6).toFixed(n>=1e7?0:1).replace('.',',')+'M' : Math.round(n/1000)+'k';
 
-const estado = {q:'', dorms:new Set(), barrio:'', orden:'precio',
-                min:0, max:0, consultar:true, dolar:true};
+const estado = {q:'', dorms:new Set(), barrio:'', orden:'-nuevo',
+                min:0, max:0, consultar:false, dolar:false};
 let PESOS = [], LIM = [0,0], BUCKETS = [], NUEVO_DESDE = 0;
 
 /* --- arranque / recarga --- */
@@ -331,11 +331,15 @@ function filtrar(){
 function ordenar(a){
   const ts=x=>x.visto_desde?new Date(x.visto_desde).getTime():0;
   const p=x=>x.precio==null?Infinity:x.precio;
+  // El sitio no publica fecha de alta, pero los ids son secuenciales:
+  // id más alto = publicación más reciente. Sirve de desempate cuando
+  // varias comparten visto_desde (todo el baseline inicial, por ejemplo).
+  const nid=x=>parseInt(x.id,10)||0;
   const f={
     'precio':(u,v)=>p(u)-p(v),
     '-precio':(u,v)=>(p(v)===Infinity?-1:p(v))-(p(u)===Infinity?-1:p(u)),
     '-dorm':(u,v)=>(v.dormitorios||0)-(u.dormitorios||0)||p(u)-p(v),
-    '-nuevo':(u,v)=>ts(v)-ts(u)||p(u)-p(v),
+    '-nuevo':(u,v)=>ts(v)-ts(u)||nid(v)-nid(u),
     'barrio':(u,v)=>(u.barrio||'zzz').localeCompare(v.barrio||'zzz')||p(u)-p(v),
   }[estado.orden];
   return a.sort(f);

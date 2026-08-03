@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-03T09:24:28",
+ "actualizado": "2026-08-03T13:42:57",
  "propiedades": {
   "86158": {
    "id": "86158",
@@ -13,21 +13,6 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/83cd12b6f93c822611df64a1078808b3.jpg",
    "lat": -38.6968175,
    "lng": -62.2802211,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "89128": {
-   "id": "89128",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/89128/Casa-en-Alquiler-en-Santiago-Del-Estero-337-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Santiago Del Estero 337, Universitario, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1200000,
-   "dormitorios": 3,
-   "inmobiliaria": "LORENA STOESSEL NEGOCIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/e7f5eeaed446b7a59933e7697d6a6799.jpeg",
-   "lat": -38.7071556,
-   "lng": -62.27150969999999,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
@@ -58,6 +43,21 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/703f8e8dc9f6b409493599552226c2e7.jpeg",
    "lat": -38.7183177,
    "lng": -62.2663478,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "89128": {
+   "id": "89128",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/89128/Casa-en-Alquiler-en-Santiago-Del-Estero-337-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Santiago Del Estero 337, Universitario, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 3,
+   "inmobiliaria": "LORENA STOESSEL NEGOCIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/e7f5eeaed446b7a59933e7697d6a6799.jpeg",
+   "lat": -38.7071556,
+   "lng": -62.27150969999999,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
@@ -223,21 +223,6 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/39224f517c6592a5a2120a3320ffc388.jpeg",
    "lat": -38.70567399999999,
    "lng": -62.26441999999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "89552": {
-   "id": "89552",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/89552/Casa-en-Alquiler-en-Jose-Ingenieros-2400-Villa-Floresta-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Jose Ingenieros 2400, Villa Floresta, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 900000,
-   "dormitorios": 2,
-   "inmobiliaria": "BILBAO BIENES RAICES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/5309a61c3cc394623f3fe69b8ca1ac91.jpeg",
-   "lat": -38.68408120000001,
-   "lng": -62.2744049,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
@@ -1126,21 +1111,6 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "86993": {
-   "id": "86993",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/86993/Casa-en-Alquiler-en-Hipólito-Irigoyen-500-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Hipólito Irigoyen 500 , Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 2600000,
-   "dormitorios": 4,
-   "inmobiliaria": "RUESCAS & COSTA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d8c9d78f252e330a4658454cfdd42fee.jpeg",
-   "lat": -38.7136999,
-   "lng": -62.26095659999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "88820": {
    "id": "88820",
    "url": "https://www.bahiablancapropiedades.com/propiedad/88820/Casa-en-Alquiler-en-MORENO-506-Centro-Bahía-Blanca",
@@ -1993,6 +1963,21 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/b99cf9168e1bbd9d8faf5918f3830ecb.jpg",
    "lat": "-38.711825",
    "lng": "-62.252103",
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "86993": {
+   "id": "86993",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/86993/Casa-en-Alquiler-en-Hipólito-Irigoyen-500-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Hipólito Irigoyen 500 , Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": null,
+   "precio": null,
+   "dormitorios": 4,
+   "inmobiliaria": "RUESCAS & COSTA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d8c9d78f252e330a4658454cfdd42fee.jpeg",
+   "lat": -38.7136999,
+   "lng": -62.26095659999999,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },

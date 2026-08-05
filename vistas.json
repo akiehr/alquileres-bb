@@ -1,36 +1,6 @@
 {
- "actualizado": "2026-08-05T12:55:19",
+ "actualizado": "2026-08-05T15:16:12",
  "propiedades": {
-  "88594": {
-   "id": "88594",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/88594/Casa-en-Alquiler-en-ZAPIOLA-1264-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en ZAPIOLA 1264, Universitario, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1200000,
-   "dormitorios": 3,
-   "inmobiliaria": "DI SANTORO BIENES RAICES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/420431b969478ebf241b5dc011e87f7a.png",
-   "lat": -38.7024452,
-   "lng": -62.27499219999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "84688": {
-   "id": "84688",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/84688/Casa-en-Alquiler-en-Tucuman-347-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Tucuman 347, Macrocentro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 780000,
-   "dormitorios": 1,
-   "inmobiliaria": "MARINI SOLUCIONES INMOBILIARIAS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/615a162659deb2d0aef329dd533480d2.jpg",
-   "lat": -38.7214749,
-   "lng": -62.27758049999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "84547": {
    "id": "84547",
    "url": "https://www.bahiablancapropiedades.com/propiedad/84547/Casa-en-Alquiler-en-Florencio-Sanchez-474-Napostá-Bahía-Blanca",
@@ -61,18 +31,18 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "89128": {
-   "id": "89128",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/89128/Casa-en-Alquiler-en-Santiago-Del-Estero-337-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Santiago Del Estero 337, Universitario, Bahía Blanca",
+  "69417": {
+   "id": "69417",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/69417/Casa-en-Alquiler-en-Lote-22-Pago-Chico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Lote 22, Pago Chico, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1200000,
-   "dormitorios": 3,
-   "inmobiliaria": "LORENA STOESSEL NEGOCIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/e7f5eeaed446b7a59933e7697d6a6799.jpeg",
-   "lat": -38.7071556,
-   "lng": -62.27150969999999,
+   "precio": 1300000,
+   "dormitorios": 2,
+   "inmobiliaria": "PINTO & ASOCIADOS CONSULTORA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/703f8e8dc9f6b409493599552226c2e7.jpeg",
+   "lat": -38.7183177,
+   "lng": -62.2663478,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
@@ -91,18 +61,18 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "69417": {
-   "id": "69417",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/69417/Casa-en-Alquiler-en-Lote-22-Pago-Chico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Lote 22, Pago Chico, Bahía Blanca",
+  "84688": {
+   "id": "84688",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/84688/Casa-en-Alquiler-en-Tucuman-347-Macrocentro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Tucuman 347, Macrocentro, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1300000,
-   "dormitorios": 2,
-   "inmobiliaria": "PINTO & ASOCIADOS CONSULTORA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/703f8e8dc9f6b409493599552226c2e7.jpeg",
-   "lat": -38.7183177,
-   "lng": -62.2663478,
+   "precio": 780000,
+   "dormitorios": 1,
+   "inmobiliaria": "MARINI SOLUCIONES INMOBILIARIAS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/615a162659deb2d0aef329dd533480d2.jpg",
+   "lat": -38.7214749,
+   "lng": -62.27758049999999,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
@@ -120,6 +90,51 @@
    "lng": -62.26847739999999,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
+  },
+  "89128": {
+   "id": "89128",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/89128/Casa-en-Alquiler-en-Santiago-Del-Estero-337-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Santiago Del Estero 337, Universitario, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 3,
+   "inmobiliaria": "LORENA STOESSEL NEGOCIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/e7f5eeaed446b7a59933e7697d6a6799.jpeg",
+   "lat": -38.7071556,
+   "lng": -62.27150969999999,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "88594": {
+   "id": "88594",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/88594/Casa-en-Alquiler-en-ZAPIOLA-1264-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en ZAPIOLA 1264, Universitario, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 3,
+   "inmobiliaria": "DI SANTORO BIENES RAICES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/420431b969478ebf241b5dc011e87f7a.png",
+   "lat": -38.7024452,
+   "lng": -62.27499219999999,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "90241": {
+   "id": "90241",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/90241/Casa-en-Alquiler-en-Drago-2640-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Drago 2640,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 2,
+   "inmobiliaria": "NICOLAS ROZAS DENNIS PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fa0573c02f7ddb1f8f242637202f1c2d.jpeg",
+   "lat": -38.7417192,
+   "lng": -62.2384437,
+   "visto_desde": "2026-08-05T15:16:12",
+   "nueva_en": "2026-08-05T15:16:12"
   },
   "90296": {
    "id": "90296",
@@ -526,21 +541,6 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "54084": {
-   "id": "54084",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/54084/Casa-en-Alquiler-en-NAPOSTA-87-Napostá-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en NAPOSTA 87, Napostá, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1100000,
-   "dormitorios": 2,
-   "inmobiliaria": "SONIA MUDA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/37c4c4cb7fbebd14ebdef6013a70d7e9.JPG",
-   "lat": -38.710817,
-   "lng": -62.2558699,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "90279": {
    "id": "90279",
    "url": "https://www.bahiablancapropiedades.com/propiedad/90279/Casa-en-Alquiler-en-GARAY-981-Bella-Vista-Bahía-Blanca",
@@ -811,21 +811,6 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "90193": {
-   "id": "90193",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/90193/Casa-en-Alquiler-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler  Macrocentro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 850000,
-   "dormitorios": 2,
-   "inmobiliaria": "MARIA T. NARVAEZ",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/ba677cd5a6909d9654c2a349f097c05f.jpeg",
-   "lat": -38.7223274,
-   "lng": -62.2717097,
-   "visto_desde": "2026-08-03T17:10:57",
-   "nueva_en": "2026-08-03T17:10:57"
-  },
   "61103": {
    "id": "61103",
    "url": "https://www.bahiablancapropiedades.com/propiedad/61103/Casa-en-Alquiler-en-Corrientes-247-Macrocentro-Bahía-Blanca",
@@ -1050,6 +1035,21 @@
    "lng": -62.2860337,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
+  },
+  "63092": {
+   "id": "63092",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/63092/Casa-en-Alquiler-en-1810-20-Villa-Mitre-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en 1810 20, Villa Mitre, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 850000,
+   "dormitorios": 2,
+   "inmobiliaria": "PELLEGRINI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/53007e837b7782562c9a0a1b5cdbaf7c.jpeg",
+   "lat": -38.7386548,
+   "lng": -62.2416977,
+   "visto_desde": "2026-08-05T15:16:12",
+   "nueva_en": "2026-08-05T15:16:12"
   },
   "73675": {
    "id": "73675",

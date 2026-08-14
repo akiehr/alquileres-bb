@@ -1,51 +1,6 @@
 {
- "actualizado": "2026-08-14T15:54:28",
+ "actualizado": "2026-08-14T17:54:40",
  "propiedades": {
-  "69532": {
-   "id": "69532",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/69532/Casa-en-Alquiler-en-Rondeau-353-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Rondeau 353, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1100000,
-   "dormitorios": 2,
-   "inmobiliaria": "GARCIA LORENZANA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d49ac6998c8ee2b0a404f48e983d02fc.jpeg",
-   "lat": -38.7183177,
-   "lng": -62.2663478,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "89673": {
-   "id": "89673",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/89673/Casa-en-Alquiler-en-Caronti-266-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Caronti 266, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 2000000,
-   "dormitorios": 3,
-   "inmobiliaria": "BARRIENTOS PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/716eff0e2d5272dc3ff95b8574128e81.jpg",
-   "lat": -38.7110571,
-   "lng": -62.26847739999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "86158": {
-   "id": "86158",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/86158/Casa-en-Alquiler-en-ALBERTI-484-San-Cayetano-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en ALBERTI 484, San Cayetano, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": null,
-   "precio": null,
-   "dormitorios": 2,
-   "inmobiliaria": "MORALES PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/83cd12b6f93c822611df64a1078808b3.jpg",
-   "lat": -38.6968175,
-   "lng": -62.2802211,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "51486": {
    "id": "51486",
    "url": "https://www.bahiablancapropiedades.com/propiedad/51486/Casa-en-Alquiler-en-Lahual-170-B8002-Bahía-Blanca-Provincia-De-Buenos-Aires-Patagonia-Bahía-Blanca",
@@ -76,6 +31,36 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
+  "86158": {
+   "id": "86158",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/86158/Casa-en-Alquiler-en-ALBERTI-484-San-Cayetano-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en ALBERTI 484, San Cayetano, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": null,
+   "precio": null,
+   "dormitorios": 2,
+   "inmobiliaria": "MORALES PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/83cd12b6f93c822611df64a1078808b3.jpg",
+   "lat": -38.6968175,
+   "lng": -62.2802211,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "89673": {
+   "id": "89673",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/89673/Casa-en-Alquiler-en-Caronti-266-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Caronti 266, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 2000000,
+   "dormitorios": 3,
+   "inmobiliaria": "BARRIENTOS PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/716eff0e2d5272dc3ff95b8574128e81.jpg",
+   "lat": -38.7110571,
+   "lng": -62.26847739999999,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
   "85695": {
    "id": "85695",
    "url": "https://www.bahiablancapropiedades.com/propiedad/85695/Casa-en-Alquiler-en-GUEMES-79-Centro-Bahía-Blanca",
@@ -88,6 +73,21 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/5071f7c21f9ed777a6feda34c07b9a2a.png",
    "lat": -38.7201777,
    "lng": -62.27012449999999,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "69532": {
+   "id": "69532",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/69532/Casa-en-Alquiler-en-Rondeau-353-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Rondeau 353, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1100000,
+   "dormitorios": 2,
+   "inmobiliaria": "GARCIA LORENZANA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d49ac6998c8ee2b0a404f48e983d02fc.jpeg",
+   "lat": -38.7183177,
+   "lng": -62.2663478,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
@@ -105,6 +105,21 @@
    "lng": -62.26111779999999,
    "visto_desde": "2026-08-14T15:54:28",
    "nueva_en": "2026-08-14T15:54:28"
+  },
+  "90756": {
+   "id": "90756",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/90756/Casa-en-Alquiler-en-Pje-Rita-Rodríguez-De-Sagari-Al-800-Luz-y-Fuerza-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Pje Rita Rodríguez De Sagari Al 800, Luz y Fuerza, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 750000,
+   "dormitorios": 2,
+   "inmobiliaria": "ROTILI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/24a5e0bb99cef303deff9dafa233d89b.jpeg",
+   "lat": null,
+   "lng": null,
+   "visto_desde": "2026-08-14T17:54:40",
+   "nueva_en": "2026-08-14T17:54:40"
   },
   "86773": {
    "id": "86773",
@@ -150,6 +165,21 @@
    "lng": -62.25192989999999,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
+  },
+  "56312": {
+   "id": "56312",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/56312/Casa-en-Alquiler-en-Sixto-Laspiur-1199-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Sixto Laspiur 1199 ,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 400000,
+   "dormitorios": 2,
+   "inmobiliaria": "LATINI DE GIROTTI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/bbe899536a2b86f264c57622ff49630d.JPG",
+   "lat": -38.7164233,
+   "lng": -62.2906807,
+   "visto_desde": "2026-08-14T17:54:40",
+   "nueva_en": "2026-08-14T17:54:40"
   },
   "90345": {
    "id": "90345",
@@ -463,21 +493,6 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a4e9b4cdd1be5337ac9b74bf11e37c88.jpeg",
    "lat": -38.7312949,
    "lng": -62.26727270000001,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "89769": {
-   "id": "89769",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/89769/Casa-en-Alquiler-en-Perito-Moreno-2276-Villa-Rosas-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Perito Moreno 2276, Villa Rosas, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 750000,
-   "dormitorios": 3,
-   "inmobiliaria": "FRANCO COMIGNANI",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/97d28a831f9dce61e2fb58ce90292302.jpg",
-   "lat": -38.7560556,
-   "lng": -62.2641283,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },

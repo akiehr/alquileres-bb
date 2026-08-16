@@ -1,51 +1,6 @@
 {
- "actualizado": "2026-08-16T14:11:54",
+ "actualizado": "2026-08-16T18:11:49",
  "propiedades": {
-  "51486": {
-   "id": "51486",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/51486/Casa-en-Alquiler-en-Lahual-170-B8002-Bahía-Blanca-Provincia-De-Buenos-Aires-Patagonia-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Lahual 170, B8002 Bahía Blanca, Provincia De Buenos Aires, Patagonia, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "U$S",
-   "precio": 2200,
-   "dormitorios": 3,
-   "inmobiliaria": "EMILIANO PERRONE SERVICIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/5d2529589de53a6d7eba0fdb8dca1cc0.jpg",
-   "lat": "-38.711825",
-   "lng": "-62.252103",
-   "visto_desde": "2026-08-10T16:01:38",
-   "nueva_en": "2026-08-10T16:01:38"
-  },
-  "69532": {
-   "id": "69532",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/69532/Casa-en-Alquiler-en-Rondeau-353-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Rondeau 353, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1100000,
-   "dormitorios": 2,
-   "inmobiliaria": "GARCIA LORENZANA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d49ac6998c8ee2b0a404f48e983d02fc.jpeg",
-   "lat": -38.7183177,
-   "lng": -62.2663478,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "35468": {
-   "id": "35468",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/35468/Casa-en-Alquiler-en-PASAJE-DELFINO-NRO-304-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en PASAJE DELFINO  NRO. 304, Macrocentro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 700000,
-   "dormitorios": 2,
-   "inmobiliaria": "SILVINA COCCIARINI SERVICIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/9557b187c2714429bf7d2a360fdfdc23.jpeg",
-   "lat": -38.723986408199174,
-   "lng": -62.26669207179767,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "90790": {
    "id": "90790",
    "url": "https://www.bahiablancapropiedades.com/propiedad/90790/Casa-en-Alquiler-en-Cervantes-541-Bella-Vista-Bahía-Blanca",
@@ -76,6 +31,21 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
+  "35468": {
+   "id": "35468",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/35468/Casa-en-Alquiler-en-PASAJE-DELFINO-NRO-304-Macrocentro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en PASAJE DELFINO  NRO. 304, Macrocentro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 700000,
+   "dormitorios": 2,
+   "inmobiliaria": "SILVINA COCCIARINI SERVICIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/9557b187c2714429bf7d2a360fdfdc23.jpeg",
+   "lat": -38.723986408199174,
+   "lng": -62.26669207179767,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
   "89673": {
    "id": "89673",
    "url": "https://www.bahiablancapropiedades.com/propiedad/89673/Casa-en-Alquiler-en-Caronti-266-Centro-Bahía-Blanca",
@@ -91,6 +61,21 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
+  "51486": {
+   "id": "51486",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/51486/Casa-en-Alquiler-en-Lahual-170-B8002-Bahía-Blanca-Provincia-De-Buenos-Aires-Patagonia-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Lahual 170, B8002 Bahía Blanca, Provincia De Buenos Aires, Patagonia, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "U$S",
+   "precio": 2200,
+   "dormitorios": 3,
+   "inmobiliaria": "EMILIANO PERRONE SERVICIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/5d2529589de53a6d7eba0fdb8dca1cc0.jpg",
+   "lat": "-38.711825",
+   "lng": "-62.252103",
+   "visto_desde": "2026-08-10T16:01:38",
+   "nueva_en": "2026-08-10T16:01:38"
+  },
   "85695": {
    "id": "85695",
    "url": "https://www.bahiablancapropiedades.com/propiedad/85695/Casa-en-Alquiler-en-GUEMES-79-Centro-Bahía-Blanca",
@@ -103,6 +88,21 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/5071f7c21f9ed777a6feda34c07b9a2a.png",
    "lat": -38.7201777,
    "lng": -62.27012449999999,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "69532": {
+   "id": "69532",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/69532/Casa-en-Alquiler-en-Rondeau-353-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Rondeau 353, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1100000,
+   "dormitorios": 2,
+   "inmobiliaria": "GARCIA LORENZANA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d49ac6998c8ee2b0a404f48e983d02fc.jpeg",
+   "lat": -38.7183177,
+   "lng": -62.2663478,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },

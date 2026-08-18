@@ -1,6 +1,36 @@
 {
- "actualizado": "2026-08-18T17:29:37",
+ "actualizado": "2026-08-18T19:29:23",
  "propiedades": {
+  "35468": {
+   "id": "35468",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/35468/Casa-en-Alquiler-en-PASAJE-DELFINO-NRO-304-Macrocentro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en PASAJE DELFINO  NRO. 304, Macrocentro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 700000,
+   "dormitorios": 2,
+   "inmobiliaria": "SILVINA COCCIARINI SERVICIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/9557b187c2714429bf7d2a360fdfdc23.jpeg",
+   "lat": -38.723986408199174,
+   "lng": -62.26669207179767,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "69532": {
+   "id": "69532",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/69532/Casa-en-Alquiler-en-Rondeau-353-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Rondeau 353, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1100000,
+   "dormitorios": 2,
+   "inmobiliaria": "GARCIA LORENZANA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d49ac6998c8ee2b0a404f48e983d02fc.jpeg",
+   "lat": -38.7183177,
+   "lng": -62.2663478,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
   "51486": {
    "id": "51486",
    "url": "https://www.bahiablancapropiedades.com/propiedad/51486/Casa-en-Alquiler-en-Lahual-170-B8002-Bahía-Blanca-Provincia-De-Buenos-Aires-Patagonia-Bahía-Blanca",
@@ -15,6 +45,21 @@
    "lng": "-62.252103",
    "visto_desde": "2026-08-10T16:01:38",
    "nueva_en": "2026-08-10T16:01:38"
+  },
+  "85695": {
+   "id": "85695",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/85695/Casa-en-Alquiler-en-GUEMES-79-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en GUEMES 79, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1500000,
+   "dormitorios": 3,
+   "inmobiliaria": "ALICIA CIUCCI SERVICIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/5071f7c21f9ed777a6feda34c07b9a2a.png",
+   "lat": -38.7201777,
+   "lng": -62.27012449999999,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
   },
   "86158": {
    "id": "86158",
@@ -45,51 +90,6 @@
    "lng": null,
    "visto_desde": "2026-08-15T18:11:15",
    "nueva_en": "2026-08-15T18:11:15"
-  },
-  "85695": {
-   "id": "85695",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/85695/Casa-en-Alquiler-en-GUEMES-79-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en GUEMES 79, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1500000,
-   "dormitorios": 3,
-   "inmobiliaria": "ALICIA CIUCCI SERVICIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/5071f7c21f9ed777a6feda34c07b9a2a.png",
-   "lat": -38.7201777,
-   "lng": -62.27012449999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "35468": {
-   "id": "35468",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/35468/Casa-en-Alquiler-en-PASAJE-DELFINO-NRO-304-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en PASAJE DELFINO  NRO. 304, Macrocentro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 700000,
-   "dormitorios": 2,
-   "inmobiliaria": "SILVINA COCCIARINI SERVICIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/9557b187c2714429bf7d2a360fdfdc23.jpeg",
-   "lat": -38.723986408199174,
-   "lng": -62.26669207179767,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "69532": {
-   "id": "69532",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/69532/Casa-en-Alquiler-en-Rondeau-353-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Rondeau 353, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1100000,
-   "dormitorios": 2,
-   "inmobiliaria": "GARCIA LORENZANA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d49ac6998c8ee2b0a404f48e983d02fc.jpeg",
-   "lat": -38.7183177,
-   "lng": -62.2663478,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
   },
   "90816": {
    "id": "90816",
@@ -240,21 +240,6 @@
    "lng": -62.25818599999999,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
-  },
-  "90522": {
-   "id": "90522",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/90522/Casa-en-Alquiler-en-Laprida-287-Napostá-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Laprida 287, Napostá, Bahía Blanca",
-   "tipo": "Quinta",
-   "moneda": "$",
-   "precio": 1100000,
-   "dormitorios": 2,
-   "inmobiliaria": "QUINTANA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/525397e5247804054a6e65b107da1c1f.jpg",
-   "lat": -38.7088349,
-   "lng": -62.2608067,
-   "visto_desde": "2026-08-10T17:53:16",
-   "nueva_en": "2026-08-10T17:53:16"
   },
   "90535": {
    "id": "90535",

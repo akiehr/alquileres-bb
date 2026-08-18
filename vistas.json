@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-18T13:44:11",
+ "actualizado": "2026-08-18T15:34:08",
  "propiedades": {
   "51486": {
    "id": "51486",
@@ -16,6 +16,21 @@
    "visto_desde": "2026-08-10T16:01:38",
    "nueva_en": "2026-08-10T16:01:38"
   },
+  "85695": {
+   "id": "85695",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/85695/Casa-en-Alquiler-en-GUEMES-79-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en GUEMES 79, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1500000,
+   "dormitorios": 3,
+   "inmobiliaria": "ALICIA CIUCCI SERVICIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/5071f7c21f9ed777a6feda34c07b9a2a.png",
+   "lat": -38.7201777,
+   "lng": -62.27012449999999,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
   "86158": {
    "id": "86158",
    "url": "https://www.bahiablancapropiedades.com/propiedad/86158/Casa-en-Alquiler-en-ALBERTI-484-San-Cayetano-Bahía-Blanca",
@@ -28,21 +43,6 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/83cd12b6f93c822611df64a1078808b3.jpg",
    "lat": -38.6968175,
    "lng": -62.2802211,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "69532": {
-   "id": "69532",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/69532/Casa-en-Alquiler-en-Rondeau-353-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Rondeau 353, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1100000,
-   "dormitorios": 2,
-   "inmobiliaria": "GARCIA LORENZANA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d49ac6998c8ee2b0a404f48e983d02fc.jpeg",
-   "lat": -38.7183177,
-   "lng": -62.2663478,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
@@ -61,21 +61,6 @@
    "visto_desde": "2026-08-15T18:11:15",
    "nueva_en": "2026-08-15T18:11:15"
   },
-  "85695": {
-   "id": "85695",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/85695/Casa-en-Alquiler-en-GUEMES-79-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en GUEMES 79, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1500000,
-   "dormitorios": 3,
-   "inmobiliaria": "ALICIA CIUCCI SERVICIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/5071f7c21f9ed777a6feda34c07b9a2a.png",
-   "lat": -38.7201777,
-   "lng": -62.27012449999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "35468": {
    "id": "35468",
    "url": "https://www.bahiablancapropiedades.com/propiedad/35468/Casa-en-Alquiler-en-PASAJE-DELFINO-NRO-304-Macrocentro-Bahía-Blanca",
@@ -90,6 +75,36 @@
    "lng": -62.26669207179767,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
+  },
+  "69532": {
+   "id": "69532",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/69532/Casa-en-Alquiler-en-Rondeau-353-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Rondeau 353, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1100000,
+   "dormitorios": 2,
+   "inmobiliaria": "GARCIA LORENZANA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d49ac6998c8ee2b0a404f48e983d02fc.jpeg",
+   "lat": -38.7183177,
+   "lng": -62.2663478,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "90816": {
+   "id": "90816",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/90816/Casa-en-Alquiler-en-Entre-Ríos-1372-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Entre Ríos 1372,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 950000,
+   "dormitorios": 2,
+   "inmobiliaria": "FRANCO COMIGNANI",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/c7ed45d68eb35d0f179ae1ae0aa2f39a.jpg",
+   "lat": -38.7204797,
+   "lng": -62.2956827,
+   "visto_desde": "2026-08-18T15:34:08",
+   "nueva_en": "2026-08-18T15:34:08"
   },
   "89855": {
    "id": "89855",
@@ -901,21 +916,6 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "87187": {
-   "id": "87187",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/87187/Casa-en-Alquiler-en-Canadá-199-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Canadá 199, Universitario, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 860000,
-   "dormitorios": 2,
-   "inmobiliaria": "LIBERATORE SERVICIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/b99cf9168e1bbd9d8faf5918f3830ecb.jpg",
-   "lat": "-38.711825",
-   "lng": "-62.252103",
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "90032": {
    "id": "90032",
    "url": "https://www.bahiablancapropiedades.com/propiedad/90032/Casa-en-Alquiler-en-Ecuador-2156-Villa-Rosas-Bahía-Blanca",
@@ -1080,21 +1080,6 @@
    "lng": -62.2584805,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
-  },
-  "36806": {
-   "id": "36806",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/36806/Casa-en-Alquiler-en-Uruguay-200-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Uruguay 200, Universitario, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 500000,
-   "dormitorios": 1,
-   "inmobiliaria": "SEGU INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d3e4b2601eddcef61d7476831351c660.jpg",
-   "lat": -38.704415,
-   "lng": -62.278237,
-   "visto_desde": "2026-08-10T11:49:26",
-   "nueva_en": "2026-08-10T11:49:26"
   },
   "85144": {
    "id": "85144",
@@ -1710,21 +1695,6 @@
    "lng": -62.24519059999999,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
-  },
-  "56312": {
-   "id": "56312",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/56312/Casa-en-Alquiler-en-Sixto-Laspiur-1199-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Sixto Laspiur 1199 ,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 400000,
-   "dormitorios": 2,
-   "inmobiliaria": "LATINI DE GIROTTI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/bbe899536a2b86f264c57622ff49630d.JPG",
-   "lat": -38.7164233,
-   "lng": -62.2906807,
-   "visto_desde": "2026-08-14T17:54:40",
-   "nueva_en": "2026-08-14T17:54:40"
   },
   "90565": {
    "id": "90565",

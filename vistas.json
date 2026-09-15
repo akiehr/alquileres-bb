@@ -1,20 +1,35 @@
 {
- "actualizado": "2026-09-15T10:42:56",
+ "actualizado": "2026-09-15T15:28:49",
  "propiedades": {
-  "89673": {
-   "id": "89673",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/89673/Casa-en-Alquiler-en-Caronti-266-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Caronti 266, Centro, Bahía Blanca",
+  "83296": {
+   "id": "83296",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/83296/Casa-en-Alquiler-en-Fuerte-Argentino-467-Paseo-de-las-Esculturas-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Fuerte Argentino 467, Paseo de las Esculturas, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1900000,
-   "dormitorios": 3,
-   "inmobiliaria": "BARRIENTOS PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/716eff0e2d5272dc3ff95b8574128e81.jpg",
-   "lat": -38.7110571,
-   "lng": -62.26847739999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
+   "precio": 2750000,
+   "dormitorios": 2,
+   "inmobiliaria": "SALVUCCI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/8e13830ee7f96008d0866da6ed2d603e.jpg",
+   "lat": -38.7052982,
+   "lng": -62.2605966,
+   "visto_desde": "2026-09-11T10:15:44",
+   "nueva_en": "2026-09-11T10:15:44"
+  },
+  "90735": {
+   "id": "90735",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/90735/Casa-en-Alquiler-en-Undiano-88-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Undiano 88, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 2000000,
+   "dormitorios": 2,
+   "inmobiliaria": "NOCETI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fa0aa3190b3ff76aab98486d4c60ebcf.jpg",
+   "lat": -38.7248116,
+   "lng": -62.26111779999999,
+   "visto_desde": "2026-08-14T15:54:28",
+   "nueva_en": "2026-08-14T15:54:28"
   },
   "86158": {
    "id": "86158",
@@ -46,6 +61,21 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
+  "89673": {
+   "id": "89673",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/89673/Casa-en-Alquiler-en-Caronti-266-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Caronti 266, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1900000,
+   "dormitorios": 3,
+   "inmobiliaria": "BARRIENTOS PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/716eff0e2d5272dc3ff95b8574128e81.jpg",
+   "lat": -38.7110571,
+   "lng": -62.26847739999999,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
   "84529": {
    "id": "84529",
    "url": "https://www.bahiablancapropiedades.com/propiedad/84529/Casa-en-Alquiler-en-Alem-900-Universitario-Bahía-Blanca",
@@ -60,21 +90,6 @@
    "lng": -62.2673576,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
-  },
-  "90735": {
-   "id": "90735",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/90735/Casa-en-Alquiler-en-Undiano-88-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Undiano 88, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 2000000,
-   "dormitorios": 2,
-   "inmobiliaria": "NOCETI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fa0aa3190b3ff76aab98486d4c60ebcf.jpg",
-   "lat": -38.7248116,
-   "lng": -62.26111779999999,
-   "visto_desde": "2026-08-14T15:54:28",
-   "nueva_en": "2026-08-14T15:54:28"
   },
   "48175": {
    "id": "48175",
@@ -91,20 +106,95 @@
    "visto_desde": "2026-08-27T00:32:30",
    "nueva_en": "2026-08-27T00:32:30"
   },
-  "83296": {
-   "id": "83296",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/83296/Casa-en-Alquiler-en-Fuerte-Argentino-467-Paseo-de-las-Esculturas-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Fuerte Argentino 467, Paseo de las Esculturas, Bahía Blanca",
+  "92249": {
+   "id": "92249",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92249/Casa-en-Alquiler-en-17-De-Mayo-1653-Vista-Alegre-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en 17 De Mayo 1653, Vista Alegre, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 2750000,
+   "precio": 800000,
+   "dormitorios": 3,
+   "inmobiliaria": "GUILLERMO BADENHEUER INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/adb9e8c1aaded6b80e44f0e16fc5bf55.jpeg",
+   "lat": -38.716333,
+   "lng": -62.30723299999999,
+   "visto_desde": "2026-09-15T15:28:49",
+   "nueva_en": "2026-09-15T15:28:49"
+  },
+  "92257": {
+   "id": "92257",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92257/Casa-en-Alquiler-en-Bouchard-1900-Villa-Amaducci-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Bouchard 1900, Villa Amaducci, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 850000,
    "dormitorios": 2,
-   "inmobiliaria": "SALVUCCI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/8e13830ee7f96008d0866da6ed2d603e.jpg",
-   "lat": -38.7052982,
-   "lng": -62.2605966,
-   "visto_desde": "2026-09-11T10:15:44",
-   "nueva_en": "2026-09-11T10:15:44"
+   "inmobiliaria": "SEGU INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/bc4c9bf190a2dc1ae1b1ea7db42753cf.jpg",
+   "lat": -38.7240076,
+   "lng": -62.2317352,
+   "visto_desde": "2026-09-15T15:28:49",
+   "nueva_en": "2026-09-15T15:28:49"
+  },
+  "92268": {
+   "id": "92268",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92268/Casa-en-Alquiler-en-Libertad-1845-Villa-Rosas-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Libertad 1845 , Villa Rosas, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 800000,
+   "dormitorios": 2,
+   "inmobiliaria": "RAMIREZ PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/8c884ca28ad5f7645d2ffef7e0487e1a.jpeg",
+   "lat": -38.7550105,
+   "lng": -62.2602958,
+   "visto_desde": "2026-09-15T15:28:49",
+   "nueva_en": "2026-09-15T15:28:49"
+  },
+  "92031": {
+   "id": "92031",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92031/Casa-en-Alquiler-en-Alsina-688-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Alsina 688, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 4,
+   "inmobiliaria": "LATINI DE GIROTTI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/ea72b546ea4adbcd1ef28a7d1ccda2b7.jpeg",
+   "lat": -38.7121258,
+   "lng": -62.257153,
+   "visto_desde": "2026-09-15T15:28:49",
+   "nueva_en": "2026-09-15T15:28:49"
+  },
+  "92253": {
+   "id": "92253",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92253/Casa-en-Alquiler-en-Las-Heras-500-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Las Heras 500,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 2200000,
+   "dormitorios": null,
+   "inmobiliaria": "LORENA STOESSEL NEGOCIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/e7f93b8cb38e207359a209999909327a.jpg",
+   "lat": -38.716302,
+   "lng": -62.25741619999999,
+   "visto_desde": "2026-09-15T15:28:49",
+   "nueva_en": "2026-09-15T15:28:49"
+  },
+  "92275": {
+   "id": "92275",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92275/Casa-en-Alquiler-en-Belgica-1635-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Belgica 1635,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 890000,
+   "dormitorios": 2,
+   "inmobiliaria": "PELLEGRINI PROP",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fa952b678db5500230b72653dbba0267.jpeg",
+   "lat": -38.7137083,
+   "lng": -62.2962877,
+   "visto_desde": "2026-09-15T15:28:49",
+   "nueva_en": "2026-09-15T15:28:49"
   },
   "81798": {
    "id": "81798",
@@ -405,21 +495,6 @@
    "lng": -62.28126930000001,
    "visto_desde": "2026-09-01T19:46:34",
    "nueva_en": "2026-09-01T19:46:34"
-  },
-  "64638": {
-   "id": "64638",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/64638/Casa-en-Alquiler-en-Pirovano-2296-Prensa-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Pirovano 2296, Prensa, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1500000,
-   "dormitorios": 2,
-   "inmobiliaria": "LATINI DE GIROTTI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/82db109b3d789eea2cf8ebf29bd72485.jpeg",
-   "lat": -38.7100026,
-   "lng": -62.2077245,
-   "visto_desde": "2026-09-07T20:23:32",
-   "nueva_en": "2026-09-07T20:23:32"
   },
   "63092": {
    "id": "63092",
@@ -961,21 +1036,6 @@
    "visto_desde": "2026-08-19T23:25:04",
    "nueva_en": "2026-08-19T23:25:04"
   },
-  "15854": {
-   "id": "15854",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/15854/Casa-en-Alquiler-en-20-De-Septiembre-1469-Villa-Mitre-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en 20 De Septiembre 1469, Villa Mitre, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1000000,
-   "dormitorios": 2,
-   "inmobiliaria": "PELLEGRINI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/db24a5cd5806e1f88cbfd30a7ea4beb1.jpg",
-   "lat": -38.7307879,
-   "lng": -62.2501886,
-   "visto_desde": "2026-08-31T17:56:30",
-   "nueva_en": "2026-08-31T17:56:30"
-  },
   "89783": {
    "id": "89783",
    "url": "https://www.bahiablancapropiedades.com/propiedad/89783/Casa-en-Alquiler-en-Lote-185-Pago-Chico-Bahía-Blanca",
@@ -1155,21 +1215,6 @@
    "lng": -62.281203,
    "visto_desde": "2026-08-21T21:27:09",
    "nueva_en": "2026-08-21T21:27:09"
-  },
-  "91459": {
-   "id": "91459",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/91459/Casa-en-Alquiler-en-Viamonte-580-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Viamonte 580, Macrocentro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1500000,
-   "dormitorios": 2,
-   "inmobiliaria": "ECHEVERRIA ADMINISTRACIONES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/40c82ddcca13d6d7b3caeb818116c346.jpg",
-   "lat": -38.7178863,
-   "lng": -62.2783024,
-   "visto_desde": "2026-08-28T21:20:14",
-   "nueva_en": "2026-08-28T21:20:14"
   },
   "90450": {
    "id": "90450",
@@ -1380,21 +1425,6 @@
    "lng": -62.27150969999999,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
-  },
-  "19690": {
-   "id": "19690",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/19690/Casa-en-Alquiler-en-Chiclana-751-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Chiclana 751, Macrocentro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 830000,
-   "dormitorios": 3,
-   "inmobiliaria": "PELLEGRINI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/1d7073a255c07193c0ee8f6f33362de3.jpeg",
-   "lat": -38.7247845,
-   "lng": -62.25808550000001,
-   "visto_desde": "2026-09-07T16:19:09",
-   "nueva_en": "2026-09-07T16:19:09"
   },
   "78566": {
    "id": "78566",

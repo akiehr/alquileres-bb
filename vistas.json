@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-21T11:29:36",
+ "actualizado": "2026-09-21T16:50:52",
  "propiedades": {
   "83296": {
    "id": "83296",
@@ -16,6 +16,21 @@
    "visto_desde": "2026-09-11T10:15:44",
    "nueva_en": "2026-09-11T10:15:44"
   },
+  "92315": {
+   "id": "92315",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92315/Casa-en-Alquiler-en-12-De-Octubre-2317-Villa-del-Parque-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en 12 De Octubre 2317, Villa del Parque, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 3,
+   "inmobiliaria": "PIANGATELLI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/8771989883f912f42a4d62ed8c1b2749.jpeg",
+   "lat": -38.6901175,
+   "lng": -62.2806965,
+   "visto_desde": "2026-09-16T15:21:37",
+   "nueva_en": "2026-09-16T15:21:37"
+  },
   "91535": {
    "id": "91535",
    "url": "https://www.bahiablancapropiedades.com/propiedad/91535/Casa-en-Alquiler-en-Republica-Siria-2270-Santa-Margarita-Bahía-Blanca",
@@ -30,21 +45,6 @@
    "lng": -62.2822458,
    "visto_desde": "2026-09-01T10:48:40",
    "nueva_en": "2026-09-01T10:48:40"
-  },
-  "39524": {
-   "id": "39524",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/39524/Casa-en-Alquiler-en-Mallea-910-Villa-del-Parque-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Mallea 910, Villa del Parque, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1600000,
-   "dormitorios": 3,
-   "inmobiliaria": "GARCIA LORENZANA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/cb5846bccb05e94dcea46e7156b717bf.jpg",
-   "lat": null,
-   "lng": null,
-   "visto_desde": "2026-08-20T15:36:26",
-   "nueva_en": "2026-08-20T15:36:26"
   },
   "92462": {
    "id": "92462",
@@ -61,21 +61,6 @@
    "visto_desde": "2026-09-18T18:08:45",
    "nueva_en": "2026-09-18T18:08:45"
   },
-  "92500": {
-   "id": "92500",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92500/Casa-en-Alquiler-en-Florencio-Sanchez-756-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Florencio Sanchez 756, Universitario, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 890000,
-   "dormitorios": 2,
-   "inmobiliaria": "CAPPELLA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/7b29816427f656d3302afa84a5cb1575.jpg",
-   "lat": "-38.711825",
-   "lng": "-62.252103",
-   "visto_desde": "2026-09-20T10:19:10",
-   "nueva_en": "2026-09-20T10:19:10"
-  },
   "86158": {
    "id": "86158",
    "url": "https://www.bahiablancapropiedades.com/propiedad/86158/Casa-en-Alquiler-en-ALBERTI-484-San-Cayetano-Bahía-Blanca",
@@ -91,13 +76,28 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
+  "92500": {
+   "id": "92500",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92500/Casa-en-Alquiler-en-Florencio-Sanchez-756-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Florencio Sanchez 756, Universitario, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 890000,
+   "dormitorios": 2,
+   "inmobiliaria": "CAPPELLA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/7b29816427f656d3302afa84a5cb1575.jpg",
+   "lat": "-38.711825",
+   "lng": "-62.252103",
+   "visto_desde": "2026-09-20T10:19:10",
+   "nueva_en": "2026-09-20T10:19:10"
+  },
   "64023": {
    "id": "64023",
    "url": "https://www.bahiablancapropiedades.com/propiedad/64023/Casa-en-Alquiler-en-CORTALEZZI-1400-Los-Horneros-Bahía-Blanca",
    "titulo": "Casa en Alquiler en CORTALEZZI 1400, Los Horneros, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1200000,
+   "precio": 1100000,
    "dormitorios": 3,
    "inmobiliaria": "LORENA BRUNO PROPIEDADES",
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fec323f69aeaa3adaf8e67eb3f320c4d.jpg",
@@ -106,20 +106,50 @@
    "visto_desde": "2026-08-11T17:59:15",
    "nueva_en": "2026-08-11T17:59:15"
   },
-  "92315": {
-   "id": "92315",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92315/Casa-en-Alquiler-en-12-De-Octubre-2317-Villa-del-Parque-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en 12 De Octubre 2317, Villa del Parque, Bahía Blanca",
+  "39524": {
+   "id": "39524",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/39524/Casa-en-Alquiler-en-Mallea-910-Villa-del-Parque-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Mallea 910, Villa del Parque, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1200000,
+   "precio": 1600000,
    "dormitorios": 3,
-   "inmobiliaria": "PIANGATELLI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/8771989883f912f42a4d62ed8c1b2749.jpeg",
-   "lat": -38.6901175,
-   "lng": -62.2806965,
-   "visto_desde": "2026-09-16T15:21:37",
-   "nueva_en": "2026-09-16T15:21:37"
+   "inmobiliaria": "GARCIA LORENZANA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/cb5846bccb05e94dcea46e7156b717bf.jpg",
+   "lat": null,
+   "lng": null,
+   "visto_desde": "2026-08-20T15:36:26",
+   "nueva_en": "2026-08-20T15:36:26"
+  },
+  "92550": {
+   "id": "92550",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92550/Casa-en-Alquiler-en-Charlone-1486-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Charlone 1486,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 850000,
+   "dormitorios": 2,
+   "inmobiliaria": "MAIDANA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/caff06f8d6057094cba176295ce0133c.jpg",
+   "lat": -38.7232306,
+   "lng": -62.2944463,
+   "visto_desde": "2026-09-21T16:50:52",
+   "nueva_en": "2026-09-21T16:50:52"
+  },
+  "92540": {
+   "id": "92540",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92540/Casa-en-Alquiler-en-Entre-Rios-229-Pacifico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Entre Rios 229, Pacifico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 850000,
+   "dormitorios": 2,
+   "inmobiliaria": "SUAREZ & ROTH INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/981de6b377fecc15c48dbeac15430816.jpeg",
+   "lat": -38.71084219999999,
+   "lng": -62.2834967,
+   "visto_desde": "2026-09-21T16:50:52",
+   "nueva_en": "2026-09-21T16:50:52"
   },
   "87417": {
    "id": "87417",
@@ -571,21 +601,6 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "87600": {
-   "id": "87600",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/87600/Casa-en-Alquiler-en-Rayen-700-Patagonia-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Rayen 700, Patagonia, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 2300000,
-   "dormitorios": null,
-   "inmobiliaria": "ESTUDIO INMOBILIARIO CAMBRIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/35ec28a5c57fc70cab32076e380d64d7.jpeg",
-   "lat": -38.6963745,
-   "lng": -62.22337520000001,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "48666": {
    "id": "48666",
    "url": "https://www.bahiablancapropiedades.com/propiedad/48666/Casa-en-Alquiler-en-Ohiggins-563-Macrocentro-Bahía-Blanca",
@@ -630,6 +645,21 @@
    "lng": -62.28246,
    "visto_desde": "2026-09-18T18:08:45",
    "nueva_en": "2026-09-18T18:08:45"
+  },
+  "34007": {
+   "id": "34007",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/34007/Casa-en-Alquiler-en-Mitre-1176-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Mitre 1176, Universitario, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 2,
+   "inmobiliaria": "SONIA MUDA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/be5bcb89d1f3fb4b514a1450fcae923d.jpg",
+   "lat": -38.7059724,
+   "lng": -62.2767219,
+   "visto_desde": "2026-09-21T16:50:52",
+   "nueva_en": "2026-09-21T16:50:52"
   },
   "91983": {
    "id": "91983",
@@ -1063,21 +1093,6 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/ccb94b5e2e800b55649891dd2a7b066a.jpeg",
    "lat": -38.7224794,
    "lng": -62.2555838,
-   "visto_desde": "2026-09-16T19:52:45",
-   "nueva_en": "2026-09-16T19:52:45"
-  },
-  "92352": {
-   "id": "92352",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92352/Casa-en-Alquiler-en-Hilario-Ascasubi-230-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Hilario Ascasubi 230, Universitario, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 900000,
-   "dormitorios": 2,
-   "inmobiliaria": "PINTO & ASOCIADOS CONSULTORA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/5a2941d8278c0d876c88b86bba098569.JPG",
-   "lat": -38.7028708,
-   "lng": -62.2798506,
    "visto_desde": "2026-09-16T19:52:45",
    "nueva_en": "2026-09-16T19:52:45"
   },
@@ -1815,21 +1830,6 @@
    "lng": -62.22045009999999,
    "visto_desde": "2026-09-14T20:46:14",
    "nueva_en": "2026-09-14T20:46:14"
-  },
-  "85080": {
-   "id": "85080",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/85080/Casa-en-Alquiler-en-Tarapacá-1913-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Tarapacá 1913,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 600000,
-   "dormitorios": 1,
-   "inmobiliaria": "FRANCO COMIGNANI",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/193cc40eeb864811e58df00a2fd40d59.jpg",
-   "lat": -38.7538488,
-   "lng": -62.2632978,
-   "visto_desde": "2026-09-15T20:03:49",
-   "nueva_en": "2026-09-15T20:03:49"
   },
   "92460": {
    "id": "92460",

@@ -1,6 +1,21 @@
 {
- "actualizado": "2026-10-08T12:29:58",
+ "actualizado": "2026-10-08T17:46:40",
  "propiedades": {
+  "93088": {
+   "id": "93088",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93088/Casa-en-Alquiler-en-Azara-6350-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Azara 6350,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 650000,
+   "dormitorios": 1,
+   "inmobiliaria": "PIERMATTEI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/88d61895bc0e6aae2188047a3ef0a4c7.jpeg",
+   "lat": -38.6785327,
+   "lng": -62.1987438,
+   "visto_desde": "2026-10-01T23:01:47",
+   "nueva_en": "2026-10-01T23:01:47"
+  },
   "86158": {
    "id": "86158",
    "url": "https://www.bahiablancapropiedades.com/propiedad/86158/Casa-en-Alquiler-en-ALBERTI-484-San-Cayetano-Bahía-Blanca",
@@ -30,36 +45,6 @@
    "lng": -62.2660986,
    "visto_desde": "2026-09-25T23:53:10",
    "nueva_en": "2026-09-25T23:53:10"
-  },
-  "65586": {
-   "id": "65586",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/65586/Casa-en-Alquiler-en-Sarmiento-1200-La-Falda-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Sarmiento 1200, La Falda, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1900000,
-   "dormitorios": 3,
-   "inmobiliaria": "INMOBILIARIA CRECER",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/56006896468632d81e0917d6894f9123.jpg",
-   "lat": -38.70714,
-   "lng": -62.25459999999999,
-   "visto_desde": "2026-09-16T19:52:45",
-   "nueva_en": "2026-09-16T19:52:45"
-  },
-  "93088": {
-   "id": "93088",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93088/Casa-en-Alquiler-en-Azara-6350-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Azara 6350,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 650000,
-   "dormitorios": 1,
-   "inmobiliaria": "PIERMATTEI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/88d61895bc0e6aae2188047a3ef0a4c7.jpeg",
-   "lat": -38.6785327,
-   "lng": -62.1987438,
-   "visto_desde": "2026-10-01T23:01:47",
-   "nueva_en": "2026-10-01T23:01:47"
   },
   "45583": {
    "id": "45583",
@@ -121,6 +106,36 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
+  "89431": {
+   "id": "89431",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/89431/Casa-en-Alquiler-en-Colombia-653-San-Cayetano-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Colombia 653, San Cayetano, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 850000,
+   "dormitorios": 2,
+   "inmobiliaria": "GIGENA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fc84326e0b135ef253d7d24a76ac5abb.jpeg",
+   "lat": -38.6968827,
+   "lng": -62.27578079999999,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "65586": {
+   "id": "65586",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/65586/Casa-en-Alquiler-en-Sarmiento-1200-La-Falda-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Sarmiento 1200, La Falda, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1900000,
+   "dormitorios": 3,
+   "inmobiliaria": "INMOBILIARIA CRECER",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/56006896468632d81e0917d6894f9123.jpg",
+   "lat": -38.70714,
+   "lng": -62.25459999999999,
+   "visto_desde": "2026-09-16T19:52:45",
+   "nueva_en": "2026-09-16T19:52:45"
+  },
   "32325": {
    "id": "32325",
    "url": "https://www.bahiablancapropiedades.com/propiedad/32325/Casa-en-Alquiler-en-Don-Bosco-100-Colon-Bahía-Blanca",
@@ -135,6 +150,36 @@
    "lng": -62.2828347,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
+  },
+  "93350": {
+   "id": "93350",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93350/Casa-en-Alquiler-en-Pablo-Acosta-420-Mara-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Pablo Acosta 420, Mara, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 850000,
+   "dormitorios": 3,
+   "inmobiliaria": "ALEJANDRA GIMENEZ PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/cdccae7ecaf0fd0af4031081a2e4e9f8.jpeg",
+   "lat": -38.7032476,
+   "lng": -62.29786799999999,
+   "visto_desde": "2026-10-08T17:46:40",
+   "nueva_en": "2026-10-08T17:46:40"
+  },
+  "93384": {
+   "id": "93384",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93384/Casa-en-Alquiler-en-La-Reserva-La-Reserva-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en La Reserva, La Reserva, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": null,
+   "precio": null,
+   "dormitorios": 2,
+   "inmobiliaria": "BAIELI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/ec517c45a0f96361c071a516e65db1c9.jpeg",
+   "lat": -38.7117381,
+   "lng": -62.26056,
+   "visto_desde": "2026-10-08T17:46:40",
+   "nueva_en": "2026-10-08T17:46:40"
   },
   "88112": {
    "id": "88112",
@@ -333,8 +378,8 @@
   },
   "93352": {
    "id": "93352",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93352/Casa-en-Alquiler-en-Brasil-895-Noroeste-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Brasil 895, Noroeste, Bahía Blanca",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93352/Casa-en-Alquiler-en-Brasil-985-Noroeste-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Brasil 985, Noroeste, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
    "precio": 950000,
@@ -1396,21 +1441,6 @@
    "visto_desde": "2026-09-14T20:46:14",
    "nueva_en": "2026-09-14T20:46:14"
   },
-  "89431": {
-   "id": "89431",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/89431/Casa-en-Alquiler-en-Colombia-653-San-Cayetano-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Colombia 653, San Cayetano, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 950000,
-   "dormitorios": 2,
-   "inmobiliaria": "GIGENA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fc84326e0b135ef253d7d24a76ac5abb.jpeg",
-   "lat": -38.6968827,
-   "lng": -62.27578079999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "89565": {
    "id": "89565",
    "url": "https://www.bahiablancapropiedades.com/propiedad/89565/Casa-en-Alquiler-en-Chile-330-Centro-Bahía-Blanca",
@@ -1987,7 +2017,7 @@
    "titulo": "Casa en Alquiler en Jose Ingenieros 2400, Villa Floresta, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 900000,
+   "precio": 850000,
    "dormitorios": 2,
    "inmobiliaria": "BILBAO BIENES RAICES",
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/dcc33db581bc910c0863e76b87a9944d.jpeg",
@@ -2188,21 +2218,6 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/958c770a89f0ed8bda382d626f2b11a3.jpeg",
    "lat": -38.74456139999999,
    "lng": -62.2860337,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "86908": {
-   "id": "86908",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/86908/Casa-en-Alquiler-en-Los-Cedros-26-Bosque-Alto-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Los Cedros 26, Bosque Alto, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1650000,
-   "dormitorios": 3,
-   "inmobiliaria": "PATRICIA PEREZ PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/40e03f9ad4a8b73f88f04c07bdf0e4df.jpg",
-   "lat": null,
-   "lng": null,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },

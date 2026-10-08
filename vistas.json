@@ -1,6 +1,51 @@
 {
- "actualizado": "2026-10-08T17:46:40",
+ "actualizado": "2026-10-08T23:41:20",
  "propiedades": {
+  "32325": {
+   "id": "32325",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/32325/Casa-en-Alquiler-en-Don-Bosco-100-Colon-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Don Bosco 100, Colon, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 950000,
+   "dormitorios": 2,
+   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/3aefe9461333ecd1c29cb0b1884393d5.jpg",
+   "lat": -38.7311853,
+   "lng": -62.2828347,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "45583": {
+   "id": "45583",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/45583/Casa-en-Alquiler-en-MILLAMAPU-300-Patagonia-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en MILLAMAPU 300, Patagonia, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1800000,
+   "dormitorios": 3,
+   "inmobiliaria": "INMOBILIARIA CRECER",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d34ad4a4894d199500bc02b6faee79bd.jpg",
+   "lat": -38.693955,
+   "lng": -62.215523,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "89673": {
+   "id": "89673",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/89673/Casa-en-Alquiler-en-Caronti-266-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Caronti 266, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1800000,
+   "dormitorios": 3,
+   "inmobiliaria": "BARRIENTOS PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/716eff0e2d5272dc3ff95b8574128e81.jpg",
+   "lat": -38.7110571,
+   "lng": -62.26847739999999,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
   "93088": {
    "id": "93088",
    "url": "https://www.bahiablancapropiedades.com/propiedad/93088/Casa-en-Alquiler-en-Azara-6350-Bahía-Blanca",
@@ -46,35 +91,20 @@
    "visto_desde": "2026-09-25T23:53:10",
    "nueva_en": "2026-09-25T23:53:10"
   },
-  "45583": {
-   "id": "45583",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/45583/Casa-en-Alquiler-en-MILLAMAPU-300-Patagonia-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en MILLAMAPU 300, Patagonia, Bahía Blanca",
+  "89431": {
+   "id": "89431",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/89431/Casa-en-Alquiler-en-Colombia-653-San-Cayetano-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Colombia 653, San Cayetano, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1800000,
-   "dormitorios": 3,
-   "inmobiliaria": "INMOBILIARIA CRECER",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d34ad4a4894d199500bc02b6faee79bd.jpg",
-   "lat": -38.693955,
-   "lng": -62.215523,
+   "precio": 850000,
+   "dormitorios": 2,
+   "inmobiliaria": "GIGENA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fc84326e0b135ef253d7d24a76ac5abb.jpeg",
+   "lat": -38.6968827,
+   "lng": -62.27578079999999,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
-  },
-  "92822": {
-   "id": "92822",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92822/Casa-en-Alquiler-en-Ascasubi-100-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Ascasubi 100,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1300000,
-   "dormitorios": 2,
-   "inmobiliaria": "PIANGATELLI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/9b69bf6f22a98ae01fba0d6d2c137337.jpeg",
-   "lat": -38.7039824,
-   "lng": -62.28123779999999,
-   "visto_desde": "2026-09-25T15:45:26",
-   "nueva_en": "2026-09-25T15:45:26"
   },
   "93108": {
    "id": "93108",
@@ -91,65 +121,20 @@
    "visto_desde": "2026-10-02T11:36:29",
    "nueva_en": "2026-10-02T11:36:29"
   },
-  "89673": {
-   "id": "89673",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/89673/Casa-en-Alquiler-en-Caronti-266-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Caronti 266, Centro, Bahía Blanca",
+  "92822": {
+   "id": "92822",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92822/Casa-en-Alquiler-en-Ascasubi-100-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Ascasubi 100,  Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1800000,
-   "dormitorios": 3,
-   "inmobiliaria": "BARRIENTOS PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/716eff0e2d5272dc3ff95b8574128e81.jpg",
-   "lat": -38.7110571,
-   "lng": -62.26847739999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "89431": {
-   "id": "89431",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/89431/Casa-en-Alquiler-en-Colombia-653-San-Cayetano-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Colombia 653, San Cayetano, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 850000,
+   "precio": 1300000,
    "dormitorios": 2,
-   "inmobiliaria": "GIGENA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fc84326e0b135ef253d7d24a76ac5abb.jpeg",
-   "lat": -38.6968827,
-   "lng": -62.27578079999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "65586": {
-   "id": "65586",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/65586/Casa-en-Alquiler-en-Sarmiento-1200-La-Falda-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Sarmiento 1200, La Falda, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1900000,
-   "dormitorios": 3,
-   "inmobiliaria": "INMOBILIARIA CRECER",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/56006896468632d81e0917d6894f9123.jpg",
-   "lat": -38.70714,
-   "lng": -62.25459999999999,
-   "visto_desde": "2026-09-16T19:52:45",
-   "nueva_en": "2026-09-16T19:52:45"
-  },
-  "32325": {
-   "id": "32325",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/32325/Casa-en-Alquiler-en-Don-Bosco-100-Colon-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Don Bosco 100, Colon, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 950000,
-   "dormitorios": 2,
-   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/3aefe9461333ecd1c29cb0b1884393d5.jpg",
-   "lat": -38.7311853,
-   "lng": -62.2828347,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
+   "inmobiliaria": "PIANGATELLI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/9b69bf6f22a98ae01fba0d6d2c137337.jpeg",
+   "lat": -38.7039824,
+   "lng": -62.28123779999999,
+   "visto_desde": "2026-09-25T15:45:26",
+   "nueva_en": "2026-09-25T15:45:26"
   },
   "93350": {
    "id": "93350",
@@ -166,6 +151,21 @@
    "visto_desde": "2026-10-08T17:46:40",
    "nueva_en": "2026-10-08T17:46:40"
   },
+  "93406": {
+   "id": "93406",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93406/Casa-en-Alquiler-en-Thompson-428-Pedro-Pico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Thompson 428, Pedro Pico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1700000,
+   "dormitorios": 4,
+   "inmobiliaria": "MARIA T. NARVAEZ",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d87f8c1fb4dc5484e6db36dcd4c69bf7.jpg",
+   "lat": -38.7270119,
+   "lng": -62.2678812,
+   "visto_desde": "2026-10-08T23:41:20",
+   "nueva_en": "2026-10-08T23:41:20"
+  },
   "93384": {
    "id": "93384",
    "url": "https://www.bahiablancapropiedades.com/propiedad/93384/Casa-en-Alquiler-en-La-Reserva-La-Reserva-Bahía-Blanca",
@@ -181,6 +181,21 @@
    "visto_desde": "2026-10-08T17:46:40",
    "nueva_en": "2026-10-08T17:46:40"
   },
+  "93412": {
+   "id": "93412",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93412/Casa-en-Alquiler-en-Paraguay-456-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Paraguay 456,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 2000000,
+   "dormitorios": null,
+   "inmobiliaria": "JORGE GIORLANDINI INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a5675fbe376afb4ed84d4fd1ca2a4574.jpeg",
+   "lat": -38.7072977,
+   "lng": -62.26723639999999,
+   "visto_desde": "2026-10-08T23:41:20",
+   "nueva_en": "2026-10-08T23:41:20"
+  },
   "88112": {
    "id": "88112",
    "url": "https://www.bahiablancapropiedades.com/propiedad/88112/Casa-en-Alquiler-en-León-De-Iraeta-Al-1200-Palihue-Bahía-Blanca",
@@ -195,21 +210,6 @@
    "lng": null,
    "visto_desde": "2026-09-14T20:46:14",
    "nueva_en": "2026-09-14T20:46:14"
-  },
-  "93083": {
-   "id": "93083",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93083/Casa-en-Alquiler-Bahía-Blanca",
-   "titulo": "Casa en Alquiler   Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1650000,
-   "dormitorios": 3,
-   "inmobiliaria": "JORGE GIORLANDINI INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/833387876e6ffc203c48373dbcf6367d.jpg",
-   "lat": -38.660075159408805,
-   "lng": -62.27062562204096,
-   "visto_desde": "2026-10-01T23:01:47",
-   "nueva_en": "2026-10-01T23:01:47"
   },
   "61377": {
    "id": "61377",
@@ -1021,21 +1021,6 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "92704": {
-   "id": "92704",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92704/Casa-en-Alquiler-en-Almafuerte-300-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Almafuerte 300,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 700000,
-   "dormitorios": 1,
-   "inmobiliaria": "BAIELI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/5a013a567c70a52c62a6ba46189f0359.jpeg",
-   "lat": -38.7237517,
-   "lng": -62.2794094,
-   "visto_desde": "2026-09-23T15:21:27",
-   "nueva_en": "2026-09-23T15:21:27"
-  },
   "92380": {
    "id": "92380",
    "url": "https://www.bahiablancapropiedades.com/propiedad/92380/Casa-en-Alquiler-en-Viamonte-2221-Pacifico-Bahía-Blanca",
@@ -1260,21 +1245,6 @@
    "lng": -62.31112419999999,
    "visto_desde": "2026-09-22T20:02:24",
    "nueva_en": "2026-09-22T20:02:24"
-  },
-  "92800": {
-   "id": "92800",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92800/Casa-en-Alquiler-en-Don-Bosco-1288-Noroeste-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Don Bosco 1288, Noroeste, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 820000,
-   "dormitorios": 2,
-   "inmobiliaria": "PIETRASANTA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/769cd8c4014eb652fac430308e3efd8f.png",
-   "lat": -38.7199312,
-   "lng": -62.2971216,
-   "visto_desde": "2026-09-24T23:47:50",
-   "nueva_en": "2026-09-24T23:47:50"
   },
   "89427": {
    "id": "89427",
@@ -1621,21 +1591,6 @@
    "visto_desde": "2026-10-06T22:56:21",
    "nueva_en": "2026-10-06T22:56:21"
   },
-  "92860": {
-   "id": "92860",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92860/Casa-en-Alquiler-en-Segunda-Simon-Bolivar-962-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Segunda Simon Bolivar 962 ,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 850000,
-   "dormitorios": 3,
-   "inmobiliaria": "MONACO SERVICIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/f3899fd4dc91648221183383ee804313.jpeg",
-   "lat": -38.69939129999999,
-   "lng": -62.31412779999999,
-   "visto_desde": "2026-09-26T17:27:33",
-   "nueva_en": "2026-09-26T17:27:33"
-  },
   "42603": {
    "id": "42603",
    "url": "https://www.bahiablancapropiedades.com/propiedad/42603/Casa-en-Alquiler-en-Trelew-505-Universitario-Bahía-Blanca",
@@ -1755,21 +1710,6 @@
    "lng": -62.22045009999999,
    "visto_desde": "2026-09-14T20:46:14",
    "nueva_en": "2026-09-14T20:46:14"
-  },
-  "92474": {
-   "id": "92474",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92474/Casa-en-Alquiler-en-Pasaje-Ombú-473-Pacifico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Pasaje Ombú 473, Pacifico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 850000,
-   "dormitorios": 2,
-   "inmobiliaria": "MARIA T. NARVAEZ",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/6f9d7eb49c22e25550a963a2de9441c4.jpeg",
-   "lat": -38.71765800000001,
-   "lng": -62.2798198,
-   "visto_desde": "2026-09-19T01:01:30",
-   "nueva_en": "2026-09-19T01:01:30"
   },
   "73815": {
    "id": "73815",

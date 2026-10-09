@@ -1,6 +1,21 @@
 {
- "actualizado": "2026-10-09T12:18:42",
+ "actualizado": "2026-10-09T17:22:42",
  "propiedades": {
+  "93108": {
+   "id": "93108",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93108/Casa-en-Alquiler-en-Dorbigny-Primer-Cuadra-La-Falda-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en D’orbigny Primer Cuadra , La Falda, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 930000,
+   "dormitorios": 2,
+   "inmobiliaria": "MARIELA PIOVESAN PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/62bc71b3427d46f7a5ac53bb9a4c2766.jpeg",
+   "lat": -38.7071544,
+   "lng": -62.2518368,
+   "visto_desde": "2026-10-02T11:36:29",
+   "nueva_en": "2026-10-02T11:36:29"
+  },
   "89431": {
    "id": "89431",
    "url": "https://www.bahiablancapropiedades.com/propiedad/89431/Casa-en-Alquiler-en-Colombia-653-San-Cayetano-Bahía-Blanca",
@@ -16,35 +31,35 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "45583": {
-   "id": "45583",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/45583/Casa-en-Alquiler-en-MILLAMAPU-300-Patagonia-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en MILLAMAPU 300, Patagonia, Bahía Blanca",
+  "93088": {
+   "id": "93088",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93088/Casa-en-Alquiler-en-Azara-6350-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Azara 6350,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 650000,
+   "dormitorios": 1,
+   "inmobiliaria": "PIERMATTEI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/88d61895bc0e6aae2188047a3ef0a4c7.jpeg",
+   "lat": -38.6785327,
+   "lng": -62.1987438,
+   "visto_desde": "2026-10-01T23:01:47",
+   "nueva_en": "2026-10-01T23:01:47"
+  },
+  "89673": {
+   "id": "89673",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/89673/Casa-en-Alquiler-en-Caronti-266-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Caronti 266, Centro, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
    "precio": 1800000,
    "dormitorios": 3,
-   "inmobiliaria": "INMOBILIARIA CRECER",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d34ad4a4894d199500bc02b6faee79bd.jpg",
-   "lat": -38.693955,
-   "lng": -62.215523,
+   "inmobiliaria": "BARRIENTOS PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/716eff0e2d5272dc3ff95b8574128e81.jpg",
+   "lat": -38.7110571,
+   "lng": -62.26847739999999,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
-  },
-  "93108": {
-   "id": "93108",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93108/Casa-en-Alquiler-en-Dorbigny-Primer-Cuadra-La-Falda-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en D’orbigny Primer Cuadra , La Falda, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 930000,
-   "dormitorios": 2,
-   "inmobiliaria": "MARIELA PIOVESAN PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/62bc71b3427d46f7a5ac53bb9a4c2766.jpeg",
-   "lat": -38.7071544,
-   "lng": -62.2518368,
-   "visto_desde": "2026-10-02T11:36:29",
-   "nueva_en": "2026-10-02T11:36:29"
   },
   "32325": {
    "id": "32325",
@@ -91,21 +106,6 @@
    "visto_desde": "2026-09-25T23:53:10",
    "nueva_en": "2026-09-25T23:53:10"
   },
-  "93088": {
-   "id": "93088",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93088/Casa-en-Alquiler-en-Azara-6350-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Azara 6350,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 650000,
-   "dormitorios": 1,
-   "inmobiliaria": "PIERMATTEI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/88d61895bc0e6aae2188047a3ef0a4c7.jpeg",
-   "lat": -38.6785327,
-   "lng": -62.1987438,
-   "visto_desde": "2026-10-01T23:01:47",
-   "nueva_en": "2026-10-01T23:01:47"
-  },
   "92822": {
    "id": "92822",
    "url": "https://www.bahiablancapropiedades.com/propiedad/92822/Casa-en-Alquiler-en-Ascasubi-100-Bahía-Blanca",
@@ -121,18 +121,18 @@
    "visto_desde": "2026-09-25T15:45:26",
    "nueva_en": "2026-09-25T15:45:26"
   },
-  "89673": {
-   "id": "89673",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/89673/Casa-en-Alquiler-en-Caronti-266-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Caronti 266, Centro, Bahía Blanca",
+  "45583": {
+   "id": "45583",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/45583/Casa-en-Alquiler-en-MILLAMAPU-300-Patagonia-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en MILLAMAPU 300, Patagonia, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
    "precio": 1800000,
    "dormitorios": 3,
-   "inmobiliaria": "BARRIENTOS PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/716eff0e2d5272dc3ff95b8574128e81.jpg",
-   "lat": -38.7110571,
-   "lng": -62.26847739999999,
+   "inmobiliaria": "INMOBILIARIA CRECER",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/d34ad4a4894d199500bc02b6faee79bd.jpg",
+   "lat": -38.693955,
+   "lng": -62.215523,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
@@ -1050,21 +1050,6 @@
    "lng": -62.2941575,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
-  },
-  "90703": {
-   "id": "90703",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/90703/Casa-en-Alquiler-en-PATRICIOS-350-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en PATRICIOS 350,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 750000,
-   "dormitorios": 2,
-   "inmobiliaria": "CINTIA VILLAR SERVICIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/be1cb594fd726f80ff757518fd9ce7ce.jpg",
-   "lat": -38.7172961,
-   "lng": -62.27762500000001,
-   "visto_desde": "2026-09-14T20:46:14",
-   "nueva_en": "2026-09-14T20:46:14"
   },
   "93364": {
    "id": "93364",
@@ -2011,21 +1996,6 @@
    "visto_desde": "2026-10-06T12:27:18",
    "nueva_en": "2026-10-06T12:27:18"
   },
-  "92423": {
-   "id": "92423",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92423/Casa-en-Alquiler-en-9-De-Julio-658-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en 9 De Julio 658, Macrocentro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 2300000,
-   "dormitorios": 3,
-   "inmobiliaria": "MARIA T. NARVAEZ",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/dc7942fb5c65f1fda066292943917430.jpeg",
-   "lat": -38.719722,
-   "lng": -62.28246,
-   "visto_desde": "2026-09-18T18:08:45",
-   "nueva_en": "2026-09-18T18:08:45"
-  },
   "89427": {
    "id": "89427",
    "url": "https://www.bahiablancapropiedades.com/propiedad/89427/Casa-en-Alquiler-en-San-Salvador-217-Napostá-Bahía-Blanca",
@@ -2175,21 +2145,6 @@
    "lng": -62.2861685,
    "visto_desde": "2026-08-10T23:37:24",
    "nueva_en": "2026-08-10T23:37:24"
-  },
-  "92278": {
-   "id": "92278",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92278/Casa-en-Alquiler-en-Malvinas-1153-Kilometro-5-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Malvinas 1153, Kilometro 5, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 800000,
-   "dormitorios": 2,
-   "inmobiliaria": "SONIA MUDA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/93583efc9982273a806f4530652e41e4.jpg",
-   "lat": -38.7186152,
-   "lng": -62.2923192,
-   "visto_desde": "2026-09-15T20:03:49",
-   "nueva_en": "2026-09-15T20:03:49"
   },
   "78566": {
    "id": "78566",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-13T18:02:21",
+ "actualizado": "2026-10-13T23:13:11",
  "propiedades": {
   "32325": {
    "id": "32325",
@@ -31,21 +31,6 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "93526": {
-   "id": "93526",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93526/Casa-en-Alquiler-en-Castelli-1200-Pacifico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Castelli 1200, Pacifico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1100000,
-   "dormitorios": 2,
-   "inmobiliaria": "ZANABRIA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/16abb4742d11b872b7ebdb9bc8a335ae.jpeg",
-   "lat": -38.711544,
-   "lng": -62.284159,
-   "visto_desde": "2026-10-13T18:02:21",
-   "nueva_en": "2026-10-13T18:02:21"
-  },
   "93531": {
    "id": "93531",
    "url": "https://www.bahiablancapropiedades.com/propiedad/93531/Casa-en-Alquiler-en-Fortineros-900-Cenci-Bahía-Blanca",
@@ -60,6 +45,21 @@
    "lng": -62.2841757,
    "visto_desde": "2026-10-13T18:02:21",
    "nueva_en": "2026-10-13T18:02:21"
+  },
+  "89431": {
+   "id": "89431",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/89431/Casa-en-Alquiler-en-Colombia-653-San-Cayetano-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Colombia 653, San Cayetano, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 850000,
+   "dormitorios": 2,
+   "inmobiliaria": "GIGENA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fc84326e0b135ef253d7d24a76ac5abb.jpeg",
+   "lat": -38.6968827,
+   "lng": -62.27578079999999,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
   },
   "93088": {
    "id": "93088",
@@ -76,20 +76,35 @@
    "visto_desde": "2026-10-01T23:01:47",
    "nueva_en": "2026-10-01T23:01:47"
   },
-  "89431": {
-   "id": "89431",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/89431/Casa-en-Alquiler-en-Colombia-653-San-Cayetano-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Colombia 653, San Cayetano, Bahía Blanca",
+  "93526": {
+   "id": "93526",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93526/Casa-en-Alquiler-en-Castelli-1200-Pacifico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Castelli 1200, Pacifico, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 850000,
+   "precio": 1100000,
    "dormitorios": 2,
-   "inmobiliaria": "GIGENA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fc84326e0b135ef253d7d24a76ac5abb.jpeg",
-   "lat": -38.6968827,
-   "lng": -62.27578079999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
+   "inmobiliaria": "ZANABRIA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/16abb4742d11b872b7ebdb9bc8a335ae.jpeg",
+   "lat": -38.711544,
+   "lng": -62.284159,
+   "visto_desde": "2026-10-13T18:02:21",
+   "nueva_en": "2026-10-13T18:02:21"
+  },
+  "93580": {
+   "id": "93580",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93580/Casa-en-Alquiler-en-Lauquen-462-Patagonia-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Lauquen 462, Patagonia, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 2,
+   "inmobiliaria": "RAMIREZ PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/e859fa5f19c3d2c84941f94e2068ed75.jpeg",
+   "lat": -38.6980876,
+   "lng": -62.21229950000001,
+   "visto_desde": "2026-10-13T23:13:11",
+   "nueva_en": "2026-10-13T23:13:11"
   },
   "86198": {
    "id": "86198",
@@ -1050,21 +1065,6 @@
    "lng": -62.2605966,
    "visto_desde": "2026-09-11T10:15:44",
    "nueva_en": "2026-09-11T10:15:44"
-  },
-  "93352": {
-   "id": "93352",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93352/Casa-en-Alquiler-en-Brasil-985-Noroeste-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Brasil 985, Noroeste, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 950000,
-   "dormitorios": 2,
-   "inmobiliaria": "MARIA T. NARVAEZ",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/768252200a1d1cb1a1c787cb015980ad.jpeg",
-   "lat": -38.7183177,
-   "lng": -62.2663478,
-   "visto_desde": "2026-10-07T23:29:54",
-   "nueva_en": "2026-10-07T23:29:54"
   },
   "84529": {
    "id": "84529",

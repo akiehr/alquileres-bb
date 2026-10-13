@@ -1,6 +1,66 @@
 {
- "actualizado": "2026-10-13T13:12:40",
+ "actualizado": "2026-10-13T18:02:21",
  "propiedades": {
+  "32325": {
+   "id": "32325",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/32325/Casa-en-Alquiler-en-Don-Bosco-100-Colon-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Don Bosco 100, Colon, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 950000,
+   "dormitorios": 2,
+   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/3aefe9461333ecd1c29cb0b1884393d5.jpg",
+   "lat": -38.7311853,
+   "lng": -62.2828347,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "86158": {
+   "id": "86158",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/86158/Casa-en-Alquiler-en-ALBERTI-484-San-Cayetano-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en ALBERTI 484, San Cayetano, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1500000,
+   "dormitorios": 2,
+   "inmobiliaria": "MORALES PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/4fb639423e77210f89f2cacb9b3992b9.jpeg",
+   "lat": -38.6968175,
+   "lng": -62.2802211,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
+  "93526": {
+   "id": "93526",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93526/Casa-en-Alquiler-en-Castelli-1200-Pacifico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Castelli 1200, Pacifico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1100000,
+   "dormitorios": 2,
+   "inmobiliaria": "ZANABRIA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/16abb4742d11b872b7ebdb9bc8a335ae.jpeg",
+   "lat": -38.711544,
+   "lng": -62.284159,
+   "visto_desde": "2026-10-13T18:02:21",
+   "nueva_en": "2026-10-13T18:02:21"
+  },
+  "93531": {
+   "id": "93531",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93531/Casa-en-Alquiler-en-Fortineros-900-Cenci-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Fortineros 900, Cenci, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1600000,
+   "dormitorios": 3,
+   "inmobiliaria": "ZANABRIA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/de85ebe042aaff6580e2fc0a89aa7a35.jpeg",
+   "lat": -38.6847456,
+   "lng": -62.2841757,
+   "visto_desde": "2026-10-13T18:02:21",
+   "nueva_en": "2026-10-13T18:02:21"
+  },
   "93088": {
    "id": "93088",
    "url": "https://www.bahiablancapropiedades.com/propiedad/93088/Casa-en-Alquiler-en-Azara-6350-Bahía-Blanca",
@@ -31,51 +91,6 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "32325": {
-   "id": "32325",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/32325/Casa-en-Alquiler-en-Don-Bosco-100-Colon-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Don Bosco 100, Colon, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 950000,
-   "dormitorios": 2,
-   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/3aefe9461333ecd1c29cb0b1884393d5.jpg",
-   "lat": -38.7311853,
-   "lng": -62.2828347,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "93108": {
-   "id": "93108",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93108/Casa-en-Alquiler-en-Dorbigny-Primer-Cuadra-La-Falda-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en D’orbigny Primer Cuadra , La Falda, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 930000,
-   "dormitorios": 2,
-   "inmobiliaria": "MARIELA PIOVESAN PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/62bc71b3427d46f7a5ac53bb9a4c2766.jpeg",
-   "lat": -38.7071544,
-   "lng": -62.2518368,
-   "visto_desde": "2026-10-02T11:36:29",
-   "nueva_en": "2026-10-02T11:36:29"
-  },
-  "86158": {
-   "id": "86158",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/86158/Casa-en-Alquiler-en-ALBERTI-484-San-Cayetano-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en ALBERTI 484, San Cayetano, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1500000,
-   "dormitorios": 2,
-   "inmobiliaria": "MORALES PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/4fb639423e77210f89f2cacb9b3992b9.jpeg",
-   "lat": -38.6968175,
-   "lng": -62.2802211,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "86198": {
    "id": "86198",
    "url": "https://www.bahiablancapropiedades.com/propiedad/86198/Casa-en-Alquiler-en-Fitz-Roy-800-Macrocentro-Bahía-Blanca",
@@ -90,21 +105,6 @@
    "lng": -62.272696,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
-  },
-  "61067": {
-   "id": "61067",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/61067/Casa-en-Alquiler-en-Santa-Fé-698-Pedro-Pico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Santa Fé 698, Pedro Pico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "U$S",
-   "precio": 65000,
-   "dormitorios": 2,
-   "inmobiliaria": "CASSA GRUPO INMOBILIARIO",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a4e9b4cdd1be5337ac9b74bf11e37c88.jpeg",
-   "lat": -38.7312949,
-   "lng": -62.26727270000001,
-   "visto_desde": "2026-09-30T16:43:34",
-   "nueva_en": "2026-09-30T16:43:34"
   },
   "87553": {
    "id": "87553",
@@ -330,6 +330,21 @@
    "lng": -62.2211531,
    "visto_desde": "2026-09-25T20:19:00",
    "nueva_en": "2026-09-25T20:19:00"
+  },
+  "80395": {
+   "id": "80395",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/80395/Casa-en-Alquiler-en-Carrega-3300-Ingeniero-White-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Carrega 3300, Ingeniero White, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 850000,
+   "dormitorios": 2,
+   "inmobiliaria": "GONZALEZ PERLENDER - ESTUDIO INMOBILIARIO",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/e6e070d90638e039c18a1ef3ebf60e47.jpeg",
+   "lat": -38.7845116,
+   "lng": -62.27219110000001,
+   "visto_desde": "2026-10-13T18:02:21",
+   "nueva_en": "2026-10-13T18:02:21"
   },
   "89629": {
    "id": "89629",
@@ -1156,6 +1171,21 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
+  "62203": {
+   "id": "62203",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/62203/Casa-en-Alquiler-en-Estomba-Al-100-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Estomba Al 100, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 3,
+   "inmobiliaria": "GOTTIFREDI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/48d09afe09a14a71bb9646df9e34161f.jpg",
+   "lat": -38.7014351,
+   "lng": -62.2883987,
+   "visto_desde": "2026-10-13T18:02:21",
+   "nueva_en": "2026-10-13T18:02:21"
+  },
   "93019": {
    "id": "93019",
    "url": "https://www.bahiablancapropiedades.com/propiedad/93019/Casa-en-Alquiler-en-Don-Bosco-695-Noroeste-Bahía-Blanca",
@@ -1290,21 +1320,6 @@
    "lng": -62.2571996,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
-  },
-  "51471": {
-   "id": "51471",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/51471/Casa-en-Alquiler-en-Republica-Siria-1600-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Republica Siria 1600, Universitario, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 700000,
-   "dormitorios": 1,
-   "inmobiliaria": "GONZALEZ PERLENDER - ESTUDIO INMOBILIARIO",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/dfc91d31ba7e537a68279c4e9f715832.jpeg",
-   "lat": -38.697742,
-   "lng": -62.275085,
-   "visto_desde": "2026-09-25T15:45:26",
-   "nueva_en": "2026-09-25T15:45:26"
   },
   "92353": {
    "id": "92353",

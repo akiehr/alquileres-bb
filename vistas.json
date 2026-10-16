@@ -1,20 +1,20 @@
 {
- "actualizado": "2026-10-16T10:21:52",
+ "actualizado": "2026-10-16T15:17:39",
  "propiedades": {
-  "92850": {
-   "id": "92850",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92850/Casa-en-Alquiler-en-12-DE-OCTUBRE-936-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en 12 DE OCTUBRE 936, Universitario, Bahía Blanca",
+  "58078": {
+   "id": "58078",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/58078/Casa-en-Alquiler-en-Ramon-Y-Cajal-3185-Palos-Verdes-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Ramon Y Cajal 3185, Palos Verdes, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1800000,
+   "precio": 2500000,
    "dormitorios": 3,
-   "inmobiliaria": "MORALES PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/723fc21919e5a20316f677cf8292a239.jpg",
-   "lat": -38.703574,
-   "lng": -62.2660986,
-   "visto_desde": "2026-09-25T23:53:10",
-   "nueva_en": "2026-09-25T23:53:10"
+   "inmobiliaria": "ROSELL INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/03c5ed58f029e9736c77f0b7a8045f08.jpeg",
+   "lat": -38.6986927,
+   "lng": -62.2344634,
+   "visto_desde": "2026-10-09T12:18:42",
+   "nueva_en": "2026-10-09T12:18:42"
   },
   "89431": {
    "id": "89431",
@@ -31,35 +31,35 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "58078": {
-   "id": "58078",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/58078/Casa-en-Alquiler-en-Ramon-Y-Cajal-3185-Palos-Verdes-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Ramon Y Cajal 3185, Palos Verdes, Bahía Blanca",
+  "92850": {
+   "id": "92850",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92850/Casa-en-Alquiler-en-12-DE-OCTUBRE-936-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en 12 DE OCTUBRE 936, Universitario, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 2500000,
+   "precio": 1800000,
    "dormitorios": 3,
-   "inmobiliaria": "ROSELL INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/03c5ed58f029e9736c77f0b7a8045f08.jpeg",
-   "lat": -38.6986927,
-   "lng": -62.2344634,
-   "visto_desde": "2026-10-09T12:18:42",
-   "nueva_en": "2026-10-09T12:18:42"
+   "inmobiliaria": "MORALES PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/723fc21919e5a20316f677cf8292a239.jpg",
+   "lat": -38.703574,
+   "lng": -62.2660986,
+   "visto_desde": "2026-09-25T23:53:10",
+   "nueva_en": "2026-09-25T23:53:10"
   },
-  "93526": {
-   "id": "93526",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93526/Casa-en-Alquiler-en-Castelli-1200-Pacifico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Castelli 1200, Pacifico, Bahía Blanca",
+  "90688": {
+   "id": "90688",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/90688/Casa-en-Alquiler-en-Emilio-Rosas-2238-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Emilio Rosas 2238,  Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1100000,
-   "dormitorios": 2,
-   "inmobiliaria": "ZANABRIA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/16abb4742d11b872b7ebdb9bc8a335ae.jpeg",
-   "lat": -38.711544,
-   "lng": -62.284159,
-   "visto_desde": "2026-10-13T18:02:21",
-   "nueva_en": "2026-10-13T18:02:21"
+   "precio": 1600000,
+   "dormitorios": 4,
+   "inmobiliaria": "FRANCO COMIGNANI",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/ef62e6a798b8c04898156f18c035cde8.PNG",
+   "lat": -38.7524336,
+   "lng": -62.2603874,
+   "visto_desde": "2026-08-13T16:00:57",
+   "nueva_en": "2026-08-13T16:00:57"
   },
   "93604": {
    "id": "93604",
@@ -76,6 +76,21 @@
    "visto_desde": "2026-10-14T20:30:06",
    "nueva_en": "2026-10-14T20:30:06"
   },
+  "93526": {
+   "id": "93526",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93526/Casa-en-Alquiler-en-Castelli-1200-Pacifico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Castelli 1200, Pacifico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1100000,
+   "dormitorios": 2,
+   "inmobiliaria": "ZANABRIA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/16abb4742d11b872b7ebdb9bc8a335ae.jpeg",
+   "lat": -38.711544,
+   "lng": -62.284159,
+   "visto_desde": "2026-10-13T18:02:21",
+   "nueva_en": "2026-10-13T18:02:21"
+  },
   "32325": {
    "id": "32325",
    "url": "https://www.bahiablancapropiedades.com/propiedad/32325/Casa-en-Alquiler-en-Don-Bosco-100-Colon-Bahía-Blanca",
@@ -90,21 +105,6 @@
    "lng": -62.2828347,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
-  },
-  "90688": {
-   "id": "90688",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/90688/Casa-en-Alquiler-en-Emilio-Rosas-2238-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Emilio Rosas 2238,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1600000,
-   "dormitorios": 4,
-   "inmobiliaria": "FRANCO COMIGNANI",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/ef62e6a798b8c04898156f18c035cde8.PNG",
-   "lat": -38.7524336,
-   "lng": -62.2603874,
-   "visto_desde": "2026-08-13T16:00:57",
-   "nueva_en": "2026-08-13T16:00:57"
   },
   "91332": {
    "id": "91332",
@@ -961,21 +961,6 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "61377": {
-   "id": "61377",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/61377/Casa-en-Alquiler-en-11-DE-ABRIL-516-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en 11 DE ABRIL 516, Universitario, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1500000,
-   "dormitorios": 4,
-   "inmobiliaria": "CIMIENTOS INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/51ee8c00be23bbf206c5efb944a68a0e.jpeg",
-   "lat": -38.7093456,
-   "lng": -62.2636363,
-   "visto_desde": "2026-10-06T17:04:25",
-   "nueva_en": "2026-10-06T17:04:25"
-  },
   "88112": {
    "id": "88112",
    "url": "https://www.bahiablancapropiedades.com/propiedad/88112/Casa-en-Alquiler-en-León-De-Iraeta-Al-1200-Palihue-Bahía-Blanca",
@@ -1171,21 +1156,6 @@
    "visto_desde": "2026-09-02T15:00:53",
    "nueva_en": "2026-09-02T15:00:53"
   },
-  "80395": {
-   "id": "80395",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/80395/Casa-en-Alquiler-en-Carrega-3300-Ingeniero-White-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Carrega 3300, Ingeniero White, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 850000,
-   "dormitorios": 2,
-   "inmobiliaria": "GONZALEZ PERLENDER - ESTUDIO INMOBILIARIO",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/e6e070d90638e039c18a1ef3ebf60e47.jpeg",
-   "lat": -38.7845116,
-   "lng": -62.27219110000001,
-   "visto_desde": "2026-10-13T18:02:21",
-   "nueva_en": "2026-10-13T18:02:21"
-  },
   "92321": {
    "id": "92321",
    "url": "https://www.bahiablancapropiedades.com/propiedad/92321/Casa-en-Alquiler-en-Zapiola-812-Universitario-Bahía-Blanca",
@@ -1276,20 +1246,20 @@
    "visto_desde": "2026-10-11T18:30:36",
    "nueva_en": "2026-10-11T18:30:36"
   },
-  "93350": {
-   "id": "93350",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93350/Casa-en-Alquiler-en-Pablo-Acosta-420-Mara-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Pablo Acosta 420, Mara, Bahía Blanca",
+  "65847": {
+   "id": "65847",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/65847/Casa-en-Alquiler-en-Haiti-300-La-Falda-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Haiti 300, La Falda, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 850000,
-   "dormitorios": 3,
-   "inmobiliaria": "ALEJANDRA GIMENEZ PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/cdccae7ecaf0fd0af4031081a2e4e9f8.jpeg",
-   "lat": -38.7032476,
-   "lng": -62.29786799999999,
-   "visto_desde": "2026-10-08T17:46:40",
-   "nueva_en": "2026-10-08T17:46:40"
+   "precio": 1300000,
+   "dormitorios": 2,
+   "inmobiliaria": "GONZALEZ PERLENDER - ESTUDIO INMOBILIARIO",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/7099e8deb871955d430ea7aba5b7328d.jpeg",
+   "lat": -38.7081962,
+   "lng": -62.2486312,
+   "visto_desde": "2026-10-16T15:17:39",
+   "nueva_en": "2026-10-16T15:17:39"
   },
   "92586": {
    "id": "92586",

@@ -1,6 +1,36 @@
 {
- "actualizado": "2026-10-17T16:43:26",
+ "actualizado": "2026-10-17T19:46:32",
  "propiedades": {
+  "93604": {
+   "id": "93604",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93604/Casa-en-Alquiler-en-GUEMES-1500-Pacifico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en GUEMES 1500, Pacifico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1600000,
+   "dormitorios": 3,
+   "inmobiliaria": "RIVERO PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/6a9ec422be52dea15ddfc163e5730c4c.jpg",
+   "lat": -38.7077669,
+   "lng": -62.28682629999999,
+   "visto_desde": "2026-10-14T20:30:06",
+   "nueva_en": "2026-10-14T20:30:06"
+  },
+  "93526": {
+   "id": "93526",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93526/Casa-en-Alquiler-en-Castelli-1200-Pacifico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Castelli 1200, Pacifico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1100000,
+   "dormitorios": 2,
+   "inmobiliaria": "ZANABRIA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/16abb4742d11b872b7ebdb9bc8a335ae.jpeg",
+   "lat": -38.711544,
+   "lng": -62.284159,
+   "visto_desde": "2026-10-13T18:02:21",
+   "nueva_en": "2026-10-13T18:02:21"
+  },
   "89431": {
    "id": "89431",
    "url": "https://www.bahiablancapropiedades.com/propiedad/89431/Casa-en-Alquiler-en-Colombia-653-San-Cayetano-Bahía-Blanca",
@@ -31,21 +61,6 @@
    "visto_desde": "2026-08-13T16:00:57",
    "nueva_en": "2026-08-13T16:00:57"
   },
-  "93604": {
-   "id": "93604",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93604/Casa-en-Alquiler-en-GUEMES-1500-Pacifico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en GUEMES 1500, Pacifico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1600000,
-   "dormitorios": 3,
-   "inmobiliaria": "RIVERO PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/6a9ec422be52dea15ddfc163e5730c4c.jpg",
-   "lat": -38.7077669,
-   "lng": -62.28682629999999,
-   "visto_desde": "2026-10-14T20:30:06",
-   "nueva_en": "2026-10-14T20:30:06"
-  },
   "92850": {
    "id": "92850",
    "url": "https://www.bahiablancapropiedades.com/propiedad/92850/Casa-en-Alquiler-en-12-DE-OCTUBRE-936-Universitario-Bahía-Blanca",
@@ -75,21 +90,6 @@
    "lng": -62.2344634,
    "visto_desde": "2026-10-09T12:18:42",
    "nueva_en": "2026-10-09T12:18:42"
-  },
-  "93526": {
-   "id": "93526",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93526/Casa-en-Alquiler-en-Castelli-1200-Pacifico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Castelli 1200, Pacifico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1100000,
-   "dormitorios": 2,
-   "inmobiliaria": "ZANABRIA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/16abb4742d11b872b7ebdb9bc8a335ae.jpeg",
-   "lat": -38.711544,
-   "lng": -62.284159,
-   "visto_desde": "2026-10-13T18:02:21",
-   "nueva_en": "2026-10-13T18:02:21"
   },
   "93759": {
    "id": "93759",

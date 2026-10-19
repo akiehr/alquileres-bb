@@ -1,20 +1,20 @@
 {
- "actualizado": "2026-10-19T11:36:48",
+ "actualizado": "2026-10-19T17:22:14",
  "propiedades": {
-  "58078": {
-   "id": "58078",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/58078/Casa-en-Alquiler-en-Ramon-Y-Cajal-3185-Palos-Verdes-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Ramon Y Cajal 3185, Palos Verdes, Bahía Blanca",
+  "92850": {
+   "id": "92850",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92850/Casa-en-Alquiler-en-12-DE-OCTUBRE-936-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en 12 DE OCTUBRE 936, Universitario, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 2500000,
+   "precio": 1800000,
    "dormitorios": 3,
-   "inmobiliaria": "ROSELL INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/03c5ed58f029e9736c77f0b7a8045f08.jpeg",
-   "lat": -38.6986927,
-   "lng": -62.2344634,
-   "visto_desde": "2026-10-09T12:18:42",
-   "nueva_en": "2026-10-09T12:18:42"
+   "inmobiliaria": "MORALES PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/723fc21919e5a20316f677cf8292a239.jpg",
+   "lat": -38.703574,
+   "lng": -62.2660986,
+   "visto_desde": "2026-09-25T23:53:10",
+   "nueva_en": "2026-09-25T23:53:10"
   },
   "89431": {
    "id": "89431",
@@ -31,6 +31,21 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
+  "58078": {
+   "id": "58078",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/58078/Casa-en-Alquiler-en-Ramon-Y-Cajal-3185-Palos-Verdes-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Ramon Y Cajal 3185, Palos Verdes, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 2500000,
+   "dormitorios": 3,
+   "inmobiliaria": "ROSELL INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/03c5ed58f029e9736c77f0b7a8045f08.jpeg",
+   "lat": -38.6986927,
+   "lng": -62.2344634,
+   "visto_desde": "2026-10-09T12:18:42",
+   "nueva_en": "2026-10-09T12:18:42"
+  },
   "93526": {
    "id": "93526",
    "url": "https://www.bahiablancapropiedades.com/propiedad/93526/Casa-en-Alquiler-en-Castelli-1200-Pacifico-Bahía-Blanca",
@@ -45,6 +60,21 @@
    "lng": -62.284159,
    "visto_desde": "2026-10-13T18:02:21",
    "nueva_en": "2026-10-13T18:02:21"
+  },
+  "69417": {
+   "id": "69417",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/69417/Casa-en-Alquiler-en-Lote-22-Pago-Chico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Lote 22, Pago Chico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1300000,
+   "dormitorios": 2,
+   "inmobiliaria": "PINTO & ASOCIADOS CONSULTORA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/703f8e8dc9f6b409493599552226c2e7.jpeg",
+   "lat": -38.7183177,
+   "lng": -62.2663478,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
   },
   "90688": {
    "id": "90688",
@@ -61,35 +91,50 @@
    "visto_desde": "2026-08-13T16:00:57",
    "nueva_en": "2026-08-13T16:00:57"
   },
-  "93604": {
-   "id": "93604",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93604/Casa-en-Alquiler-en-GUEMES-1500-Pacifico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en GUEMES 1500, Pacifico, Bahía Blanca",
+  "93776": {
+   "id": "93776",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93776/Casa-en-Alquiler-en-Entre-Rios-840-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Entre Rios 840,  Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1600000,
-   "dormitorios": 3,
-   "inmobiliaria": "RIVERO PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/6a9ec422be52dea15ddfc163e5730c4c.jpg",
-   "lat": -38.7077669,
-   "lng": -62.28682629999999,
-   "visto_desde": "2026-10-14T20:30:06",
-   "nueva_en": "2026-10-14T20:30:06"
+   "precio": 750000,
+   "dormitorios": 1,
+   "inmobiliaria": "CASTAñO PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/48f8f5f69d81f5c67accdca30dccc7c8.jpeg",
+   "lat": -38.715948,
+   "lng": -62.29014029999999,
+   "visto_desde": "2026-10-19T17:22:14",
+   "nueva_en": "2026-10-19T17:22:14"
   },
-  "92850": {
-   "id": "92850",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92850/Casa-en-Alquiler-en-12-DE-OCTUBRE-936-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en 12 DE OCTUBRE 936, Universitario, Bahía Blanca",
+  "93793": {
+   "id": "93793",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93793/Casa-en-Alquiler-en-Undiano-14-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Undiano 14, Centro, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1800000,
+   "precio": 1700000,
    "dormitorios": 3,
-   "inmobiliaria": "MORALES PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/723fc21919e5a20316f677cf8292a239.jpg",
-   "lat": -38.703574,
-   "lng": -62.2660986,
-   "visto_desde": "2026-09-25T23:53:10",
-   "nueva_en": "2026-09-25T23:53:10"
+   "inmobiliaria": "SERGIO MAGARIñOS PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a276fbdc298636e4ce4f31e9bfbeb241.png",
+   "lat": -38.7237547,
+   "lng": -62.2598291,
+   "visto_desde": "2026-10-19T17:22:14",
+   "nueva_en": "2026-10-19T17:22:14"
+  },
+  "93608": {
+   "id": "93608",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93608/Casa-en-Alquiler-en-Alvarado-491-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Alvarado 491,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1500000,
+   "dormitorios": 3,
+   "inmobiliaria": "MAIDANA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/50019d54476b66b895e08022ee7959e7.jpg",
+   "lat": -38.7108513,
+   "lng": -62.2676245,
+   "visto_desde": "2026-10-19T17:22:14",
+   "nueva_en": "2026-10-19T17:22:14"
   },
   "91352": {
    "id": "91352",
@@ -165,21 +210,6 @@
    "lng": -62.28715369999999,
    "visto_desde": "2026-09-14T20:46:14",
    "nueva_en": "2026-09-14T20:46:14"
-  },
-  "91179": {
-   "id": "91179",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/91179/Casa-en-Alquiler-en-Peru-249-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Peru 249, Universitario, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 880000,
-   "dormitorios": 2,
-   "inmobiliaria": "URBANA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/8684700324854b64511889dec8d0942e.jpeg",
-   "lat": -38.7068166,
-   "lng": -62.274323,
-   "visto_desde": "2026-08-25T06:30:03",
-   "nueva_en": "2026-08-25T06:30:03"
   },
   "93251": {
    "id": "93251",
@@ -532,7 +562,7 @@
    "titulo": "Casa en Alquiler en Dorrego 50,  Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 2200000,
+   "precio": 2000000,
    "dormitorios": 3,
    "inmobiliaria": "GANUZA ELIZALDE-HARRINGTON",
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/386ed6e719ee670c942fc0a09a6cc77e.jpg",
@@ -973,21 +1003,6 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/c5167296d4dd042183bf300e6a676a02.jpg",
    "lat": -38.7090626,
    "lng": -62.26174760000001,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "69417": {
-   "id": "69417",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/69417/Casa-en-Alquiler-en-Lote-22-Pago-Chico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Lote 22, Pago Chico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1300000,
-   "dormitorios": 2,
-   "inmobiliaria": "PINTO & ASOCIADOS CONSULTORA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/703f8e8dc9f6b409493599552226c2e7.jpeg",
-   "lat": -38.7183177,
-   "lng": -62.2663478,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
@@ -1966,21 +1981,6 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "91317": {
-   "id": "91317",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/91317/Casa-en-Alquiler-en-Cervantes-756-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Cervantes 756,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 850000,
-   "dormitorios": 2,
-   "inmobiliaria": "GANUZA ELIZALDE-HARRINGTON",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a0a56e51ed6e73cd41e7a4c254855cac.png",
-   "lat": -38.7153091,
-   "lng": -62.24561989999999,
-   "visto_desde": "2026-08-27T17:07:29",
-   "nueva_en": "2026-08-27T17:07:29"
-  },
   "31771": {
    "id": "31771",
    "url": "https://www.bahiablancapropiedades.com/propiedad/31771/Casa-en-Alquiler-en-12-De-Octubre-700-Universitario-Bahía-Blanca",
@@ -2140,7 +2140,7 @@
    "precio": 1300000,
    "dormitorios": 2,
    "inmobiliaria": "GONZALEZ PERLENDER - ESTUDIO INMOBILIARIO",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/7099e8deb871955d430ea7aba5b7328d.jpeg",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/bf7820ccab7d2bfee31389d5d1b6c151.jpeg",
    "lat": -38.7081962,
    "lng": -62.2486312,
    "visto_desde": "2026-10-16T15:17:39",
@@ -2158,21 +2158,6 @@
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/59e74e0957c635d0592963614448c271.jpg",
    "lat": -38.7156255,
    "lng": -62.24519059999999,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
-  "86198": {
-   "id": "86198",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/86198/Casa-en-Alquiler-en-Fitz-Roy-800-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Fitz Roy 800, Macrocentro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 2000000,
-   "dormitorios": 3,
-   "inmobiliaria": "SEGU INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/3cde27dc2e77c01f3e8ee66995ceb419.jpg",
-   "lat": -38.7287232,
-   "lng": -62.272696,
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },

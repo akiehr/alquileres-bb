@@ -1,6 +1,21 @@
 {
- "actualizado": "2026-10-26T11:54:32",
+ "actualizado": "2026-10-26T17:09:44",
  "propiedades": {
+  "69417": {
+   "id": "69417",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/69417/Casa-en-Alquiler-en-Lote-22-Pago-Chico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Lote 22, Pago Chico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 2,
+   "inmobiliaria": "PINTO & ASOCIADOS CONSULTORA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/703f8e8dc9f6b409493599552226c2e7.jpeg",
+   "lat": -38.7183177,
+   "lng": -62.2663478,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
+  },
   "93300": {
    "id": "93300",
    "url": "https://www.bahiablancapropiedades.com/propiedad/93300/Casa-en-Alquiler-en-Pedro-Pico-131-Pedro-Pico-Bahía-Blanca",
@@ -16,21 +31,6 @@
    "visto_desde": "2026-10-06T22:56:21",
    "nueva_en": "2026-10-06T22:56:21"
   },
-  "93731": {
-   "id": "93731",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93731/Casa-en-Alquiler-en-Thompson-858-Pedro-Pico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Thompson 858, Pedro Pico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "U$S",
-   "precio": 1000,
-   "dormitorios": 3,
-   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/756c553364d7a37a7a8c9a2882ea69be.jpg",
-   "lat": -38.7307532,
-   "lng": -62.2630704,
-   "visto_desde": "2026-10-16T19:49:56",
-   "nueva_en": "2026-10-16T19:49:56"
-  },
   "94044": {
    "id": "94044",
    "url": "https://www.bahiablancapropiedades.com/propiedad/94044/Casa-en-Alquiler-en-ALEM-557-Universitario-Bahía-Blanca",
@@ -45,21 +45,6 @@
    "lng": -62.2641456,
    "visto_desde": "2026-10-23T15:40:11",
    "nueva_en": "2026-10-23T15:40:11"
-  },
-  "69417": {
-   "id": "69417",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/69417/Casa-en-Alquiler-en-Lote-22-Pago-Chico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Lote 22, Pago Chico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1200000,
-   "dormitorios": 2,
-   "inmobiliaria": "PINTO & ASOCIADOS CONSULTORA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/703f8e8dc9f6b409493599552226c2e7.jpeg",
-   "lat": -38.7183177,
-   "lng": -62.2663478,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
   },
   "92850": {
    "id": "92850",
@@ -91,21 +76,6 @@
    "visto_desde": "2026-10-09T12:18:42",
    "nueva_en": "2026-10-09T12:18:42"
   },
-  "93526": {
-   "id": "93526",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93526/Casa-en-Alquiler-en-Castelli-1200-Pacifico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Castelli 1200, Pacifico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1100000,
-   "dormitorios": 2,
-   "inmobiliaria": "ZANABRIA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/16abb4742d11b872b7ebdb9bc8a335ae.jpeg",
-   "lat": -38.711544,
-   "lng": -62.284159,
-   "visto_desde": "2026-10-13T18:02:21",
-   "nueva_en": "2026-10-13T18:02:21"
-  },
   "65586": {
    "id": "65586",
    "url": "https://www.bahiablancapropiedades.com/propiedad/65586/Casa-en-Alquiler-en-Sarmiento-1200-La-Falda-Bahía-Blanca",
@@ -120,6 +90,21 @@
    "lng": -62.25459999999999,
    "visto_desde": "2026-10-20T15:34:56",
    "nueva_en": "2026-10-20T15:34:56"
+  },
+  "93731": {
+   "id": "93731",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93731/Casa-en-Alquiler-en-Thompson-858-Pedro-Pico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Thompson 858, Pedro Pico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "U$S",
+   "precio": 1000,
+   "dormitorios": 3,
+   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/756c553364d7a37a7a8c9a2882ea69be.jpg",
+   "lat": -38.7307532,
+   "lng": -62.2630704,
+   "visto_desde": "2026-10-16T19:49:56",
+   "nueva_en": "2026-10-16T19:49:56"
   },
   "84529": {
    "id": "84529",
@@ -255,21 +240,6 @@
    "lng": -62.29306539999999,
    "visto_desde": "2026-08-25T11:30:34",
    "nueva_en": "2026-08-25T11:30:34"
-  },
-  "65889": {
-   "id": "65889",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/65889/Casa-en-Alquiler-en-Hipolito-Yrigoyen-261-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Hipolito Yrigoyen 261, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1180000,
-   "dormitorios": 3,
-   "inmobiliaria": "JORGE GIORLANDINI INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/bfcffa0849d52709a7f2a3d980fe5331.jpeg",
-   "lat": -38.7154889,
-   "lng": -62.2630638,
-   "visto_desde": "2026-10-01T01:51:53",
-   "nueva_en": "2026-10-01T01:51:53"
   },
   "89780": {
    "id": "89780",
@@ -1921,21 +1891,6 @@
    "visto_desde": "2026-08-14T17:54:40",
    "nueva_en": "2026-08-14T17:54:40"
   },
-  "86707": {
-   "id": "86707",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/86707/Casa-en-Alquiler-en-Chile-300-Pedro-Pico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Chile 300, Pedro Pico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1350000,
-   "dormitorios": 3,
-   "inmobiliaria": "MARIA T. NARVAEZ",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/c5167296d4dd042183bf300e6a676a02.jpg",
-   "lat": -38.7090626,
-   "lng": -62.26174760000001,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "89629": {
    "id": "89629",
    "url": "https://www.bahiablancapropiedades.com/propiedad/89629/Casa-en-Alquiler-en-Washington-3525-El-Nacional-Bahía-Blanca",
@@ -2056,21 +2011,6 @@
    "visto_desde": "2026-10-17T16:43:26",
    "nueva_en": "2026-10-17T16:43:26"
   },
-  "64023": {
-   "id": "64023",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/64023/Casa-en-Alquiler-en-CORTALEZZI-1400-Los-Horneros-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en CORTALEZZI 1400, Los Horneros, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1200000,
-   "dormitorios": 3,
-   "inmobiliaria": "LORENA BRUNO PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fec323f69aeaa3adaf8e67eb3f320c4d.jpg",
-   "lat": -38.6890597,
-   "lng": -62.20080540000001,
-   "visto_desde": "2026-08-11T17:59:15",
-   "nueva_en": "2026-08-11T17:59:15"
-  },
   "93843": {
    "id": "93843",
    "url": "https://www.bahiablancapropiedades.com/propiedad/93843/Casa-en-Alquiler-en-Güemes-300-Bahía-Blanca",
@@ -2145,6 +2085,21 @@
    "lng": -62.294190805635814,
    "visto_desde": "2026-09-25T10:51:25",
    "nueva_en": "2026-09-25T10:51:25"
+  },
+  "52385": {
+   "id": "52385",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/52385/Casa-en-Alquiler-en-Argerich-700-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Argerich 700,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1500000,
+   "dormitorios": 2,
+   "inmobiliaria": "GOTTIFREDI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/2a456b201aa028a5eed026fe1cfa07eb.jpeg",
+   "lat": -38.6989617,
+   "lng": -62.22622320000001,
+   "visto_desde": "2026-10-26T17:09:44",
+   "nueva_en": "2026-10-26T17:09:44"
   },
   "78761": {
    "id": "78761",

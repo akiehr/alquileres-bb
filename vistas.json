@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28T22:58:46",
+ "actualizado": "2026-10-29T02:18:48",
  "propiedades": {
   "58078": {
    "id": "58078",
@@ -16,21 +16,6 @@
    "visto_desde": "2026-10-09T12:18:42",
    "nueva_en": "2026-10-09T12:18:42"
   },
-  "93300": {
-   "id": "93300",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93300/Casa-en-Alquiler-en-Pedro-Pico-131-Pedro-Pico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Pedro Pico 131, Pedro Pico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1100000,
-   "dormitorios": 3,
-   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/ab583d51df453f7ee63d8d7b2eb43c71.jpeg",
-   "lat": "-38.711825",
-   "lng": "-62.252103",
-   "visto_desde": "2026-10-06T22:56:21",
-   "nueva_en": "2026-10-06T22:56:21"
-  },
   "84529": {
    "id": "84529",
    "url": "https://www.bahiablancapropiedades.com/propiedad/84529/Casa-en-Alquiler-en-Alem-900-Universitario-Bahía-Blanca",
@@ -46,35 +31,20 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "92850": {
-   "id": "92850",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92850/Casa-en-Alquiler-en-12-DE-OCTUBRE-936-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en 12 DE OCTUBRE 936, Universitario, Bahía Blanca",
+  "94206": {
+   "id": "94206",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94206/Casa-en-Alquiler-en-Berutti-645-Macrocentro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Berutti 645, Macrocentro, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1600000,
-   "dormitorios": 3,
-   "inmobiliaria": "MORALES PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/723fc21919e5a20316f677cf8292a239.jpg",
-   "lat": -38.703574,
-   "lng": -62.2660986,
-   "visto_desde": "2026-09-25T23:53:10",
-   "nueva_en": "2026-09-25T23:53:10"
-  },
-  "94205": {
-   "id": "94205",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94205/Casa-en-Alquiler-en-Zelarrayan-950-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Zelarrayan 950,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1200000,
+   "precio": 900000,
    "dormitorios": 2,
    "inmobiliaria": "CAPPELLA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/eea6c148d8125fa5fa90a4c9be212161.jpg",
-   "lat": -38.7087665,
-   "lng": -62.2753988,
-   "visto_desde": "2026-10-28T02:03:30",
-   "nueva_en": "2026-10-28T02:03:30"
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a0a7f99d16a8ab2ae731f965efbe769a.jpg",
+   "lat": -38.7272249,
+   "lng": -62.2634674,
+   "visto_desde": "2026-10-28T11:51:56",
+   "nueva_en": "2026-10-28T11:51:56"
   },
   "93731": {
    "id": "93731",
@@ -106,21 +76,6 @@
    "visto_desde": "2026-10-20T15:34:56",
    "nueva_en": "2026-10-20T15:34:56"
   },
-  "69417": {
-   "id": "69417",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/69417/Casa-en-Alquiler-en-Lote-22-Pago-Chico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Lote 22, Pago Chico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1200000,
-   "dormitorios": 2,
-   "inmobiliaria": "PINTO & ASOCIADOS CONSULTORA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/703f8e8dc9f6b409493599552226c2e7.jpeg",
-   "lat": -38.7183177,
-   "lng": -62.2663478,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
-  },
   "94044": {
    "id": "94044",
    "url": "https://www.bahiablancapropiedades.com/propiedad/94044/Casa-en-Alquiler-en-ALEM-557-Universitario-Bahía-Blanca",
@@ -136,20 +91,65 @@
    "visto_desde": "2026-10-23T15:40:11",
    "nueva_en": "2026-10-23T15:40:11"
   },
-  "94206": {
-   "id": "94206",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94206/Casa-en-Alquiler-en-Berutti-645-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Berutti 645, Macrocentro, Bahía Blanca",
+  "93300": {
+   "id": "93300",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93300/Casa-en-Alquiler-en-Pedro-Pico-131-Pedro-Pico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Pedro Pico 131, Pedro Pico, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 900000,
+   "precio": 1100000,
+   "dormitorios": 3,
+   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/ab583d51df453f7ee63d8d7b2eb43c71.jpeg",
+   "lat": "-38.711825",
+   "lng": "-62.252103",
+   "visto_desde": "2026-10-06T22:56:21",
+   "nueva_en": "2026-10-06T22:56:21"
+  },
+  "94205": {
+   "id": "94205",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94205/Casa-en-Alquiler-en-Zelarrayan-950-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Zelarrayan 950,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
    "dormitorios": 2,
    "inmobiliaria": "CAPPELLA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a0a7f99d16a8ab2ae731f965efbe769a.jpg",
-   "lat": -38.7272249,
-   "lng": -62.2634674,
-   "visto_desde": "2026-10-28T11:51:56",
-   "nueva_en": "2026-10-28T11:51:56"
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/eea6c148d8125fa5fa90a4c9be212161.jpg",
+   "lat": -38.7087665,
+   "lng": -62.2753988,
+   "visto_desde": "2026-10-28T02:03:30",
+   "nueva_en": "2026-10-28T02:03:30"
+  },
+  "92850": {
+   "id": "92850",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92850/Casa-en-Alquiler-en-12-DE-OCTUBRE-936-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en 12 DE OCTUBRE 936, Universitario, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1600000,
+   "dormitorios": 3,
+   "inmobiliaria": "MORALES PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/723fc21919e5a20316f677cf8292a239.jpg",
+   "lat": -38.703574,
+   "lng": -62.2660986,
+   "visto_desde": "2026-09-25T23:53:10",
+   "nueva_en": "2026-09-25T23:53:10"
+  },
+  "69417": {
+   "id": "69417",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/69417/Casa-en-Alquiler-en-Lote-22-Pago-Chico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Lote 22, Pago Chico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 2,
+   "inmobiliaria": "PINTO & ASOCIADOS CONSULTORA INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/703f8e8dc9f6b409493599552226c2e7.jpeg",
+   "lat": -38.7183177,
+   "lng": -62.2663478,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
   },
   "94259": {
    "id": "94259",
@@ -166,21 +166,6 @@
    "visto_desde": "2026-10-28T22:58:46",
    "nueva_en": "2026-10-28T22:58:46"
   },
-  "94224": {
-   "id": "94224",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94224/Casa-en-Alquiler-en-Maipu-2400-Villa-Mitre-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Maipu 2400, Villa Mitre, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 900000,
-   "dormitorios": 2,
-   "inmobiliaria": "GHERZI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/338d514df405facd6f0fa89900c40293.jpg",
-   "lat": -38.7385548,
-   "lng": -62.2393617,
-   "visto_desde": "2026-10-28T17:01:56",
-   "nueva_en": "2026-10-28T17:01:56"
-  },
   "94241": {
    "id": "94241",
    "url": "https://www.bahiablancapropiedades.com/propiedad/94241/Casa-en-Alquiler-en-Zapiola-256-Centro-Bahía-Blanca",
@@ -196,21 +181,6 @@
    "visto_desde": "2026-10-28T22:58:46",
    "nueva_en": "2026-10-28T22:58:46"
   },
-  "94228": {
-   "id": "94228",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94228/Casa-en-Alquiler-en-Berutti-1183-Pedro-Pico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Berutti 1183, Pedro Pico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 950000,
-   "dormitorios": 2,
-   "inmobiliaria": "LETICIA PAULA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/9dfc73654c2914e2718e17db2527fba8.jfif",
-   "lat": -38.7319147,
-   "lng": -62.2573635,
-   "visto_desde": "2026-10-28T17:01:56",
-   "nueva_en": "2026-10-28T17:01:56"
-  },
   "94236": {
    "id": "94236",
    "url": "https://www.bahiablancapropiedades.com/propiedad/94236/Casa-en-Alquiler-en-San-Lorenzo-728-Napostá-Bahía-Blanca",
@@ -225,6 +195,36 @@
    "lng": -62.2483109,
    "visto_desde": "2026-10-28T22:58:46",
    "nueva_en": "2026-10-28T22:58:46"
+  },
+  "94274": {
+   "id": "94274",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94274/Casa-en-Alquiler-en-Washington-1300-Villa-Mitre-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Washington 1300, Villa Mitre, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1400000,
+   "dormitorios": 2,
+   "inmobiliaria": "SALVUCCI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a84f0b7b32beb97844c4bc9f0832715c.png",
+   "lat": -38.722474,
+   "lng": -62.2365423,
+   "visto_desde": "2026-10-29T02:18:48",
+   "nueva_en": "2026-10-29T02:18:48"
+  },
+  "94228": {
+   "id": "94228",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94228/Casa-en-Alquiler-en-Berutti-1183-Pedro-Pico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Berutti 1183, Pedro Pico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 950000,
+   "dormitorios": 2,
+   "inmobiliaria": "LETICIA PAULA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/9dfc73654c2914e2718e17db2527fba8.jfif",
+   "lat": -38.7319147,
+   "lng": -62.2573635,
+   "visto_desde": "2026-10-28T17:01:56",
+   "nueva_en": "2026-10-28T17:01:56"
   },
   "92691": {
    "id": "92691",
@@ -1545,21 +1545,6 @@
    "lng": -62.22622320000001,
    "visto_desde": "2026-10-26T17:09:44",
    "nueva_en": "2026-10-26T17:09:44"
-  },
-  "23840": {
-   "id": "23840",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/23840/Casa-en-Alquiler-en-Patricios-65-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Patricios 65, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1300000,
-   "dormitorios": 3,
-   "inmobiliaria": "CALZADA INMOBILIARIA",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/7552a3578699829073bba61458faa3dd.jpg",
-   "lat": -38.7142864,
-   "lng": -62.2744793,
-   "visto_desde": "2026-09-16T15:21:37",
-   "nueva_en": "2026-09-16T15:21:37"
   },
   "90735": {
    "id": "90735",

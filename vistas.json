@@ -1,21 +1,6 @@
 {
- "actualizado": "2026-10-31T11:26:35",
+ "actualizado": "2026-10-31T18:00:08",
  "propiedades": {
-  "94044": {
-   "id": "94044",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94044/Casa-en-Alquiler-en-ALEM-557-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en ALEM 557, Universitario, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "U$S",
-   "precio": 2500,
-   "dormitorios": null,
-   "inmobiliaria": "FILIPPONE PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/7c89e7af11de8d9a90521c4146ef1383.jpeg",
-   "lat": -38.7090627,
-   "lng": -62.2641456,
-   "visto_desde": "2026-10-23T15:40:11",
-   "nueva_en": "2026-10-23T15:40:11"
-  },
   "93300": {
    "id": "93300",
    "url": "https://www.bahiablancapropiedades.com/propiedad/93300/Casa-en-Alquiler-en-Pedro-Pico-131-Pedro-Pico-Bahía-Blanca",
@@ -30,21 +15,6 @@
    "lng": "-62.252103",
    "visto_desde": "2026-10-06T22:56:21",
    "nueva_en": "2026-10-06T22:56:21"
-  },
-  "94206": {
-   "id": "94206",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94206/Casa-en-Alquiler-en-Berutti-645-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Berutti 645, Macrocentro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 900000,
-   "dormitorios": 2,
-   "inmobiliaria": "CAPPELLA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a0a7f99d16a8ab2ae731f965efbe769a.jpg",
-   "lat": -38.7272249,
-   "lng": -62.2634674,
-   "visto_desde": "2026-10-28T11:51:56",
-   "nueva_en": "2026-10-28T11:51:56"
   },
   "69417": {
    "id": "69417",
@@ -61,20 +31,20 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "93731": {
-   "id": "93731",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93731/Casa-en-Alquiler-en-Thompson-858-Pedro-Pico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Thompson 858, Pedro Pico, Bahía Blanca",
+  "84529": {
+   "id": "84529",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/84529/Casa-en-Alquiler-en-Alem-900-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Alem 900, Universitario, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "U$S",
-   "precio": 1000,
-   "dormitorios": 3,
-   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/756c553364d7a37a7a8c9a2882ea69be.jpg",
-   "lat": -38.7307532,
-   "lng": -62.2630704,
-   "visto_desde": "2026-10-16T19:49:56",
-   "nueva_en": "2026-10-16T19:49:56"
+   "precio": 3500,
+   "dormitorios": null,
+   "inmobiliaria": "FILIPPONE PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/9a42ca64b94da3bb213614b1f6d22d16.jpg",
+   "lat": -38.7058938,
+   "lng": -62.2673576,
+   "visto_desde": "2026-07-31T22:28:38",
+   "nueva_en": null
   },
   "94205": {
    "id": "94205",
@@ -91,20 +61,65 @@
    "visto_desde": "2026-10-28T02:03:30",
    "nueva_en": "2026-10-28T02:03:30"
   },
-  "84529": {
-   "id": "84529",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/84529/Casa-en-Alquiler-en-Alem-900-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Alem 900, Universitario, Bahía Blanca",
+  "94044": {
+   "id": "94044",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94044/Casa-en-Alquiler-en-ALEM-557-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en ALEM 557, Universitario, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "U$S",
-   "precio": 3500,
+   "precio": 2500,
    "dormitorios": null,
    "inmobiliaria": "FILIPPONE PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/9a42ca64b94da3bb213614b1f6d22d16.jpg",
-   "lat": -38.7058938,
-   "lng": -62.2673576,
-   "visto_desde": "2026-07-31T22:28:38",
-   "nueva_en": null
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/7c89e7af11de8d9a90521c4146ef1383.jpeg",
+   "lat": -38.7090627,
+   "lng": -62.2641456,
+   "visto_desde": "2026-10-23T15:40:11",
+   "nueva_en": "2026-10-23T15:40:11"
+  },
+  "93731": {
+   "id": "93731",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93731/Casa-en-Alquiler-en-Thompson-858-Pedro-Pico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Thompson 858, Pedro Pico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "U$S",
+   "precio": 1000,
+   "dormitorios": 3,
+   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/756c553364d7a37a7a8c9a2882ea69be.jpg",
+   "lat": -38.7307532,
+   "lng": -62.2630704,
+   "visto_desde": "2026-10-16T19:49:56",
+   "nueva_en": "2026-10-16T19:49:56"
+  },
+  "94206": {
+   "id": "94206",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94206/Casa-en-Alquiler-en-Berutti-645-Macrocentro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Berutti 645, Macrocentro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 900000,
+   "dormitorios": 2,
+   "inmobiliaria": "CAPPELLA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a0a7f99d16a8ab2ae731f965efbe769a.jpg",
+   "lat": -38.7272249,
+   "lng": -62.2634674,
+   "visto_desde": "2026-10-28T11:51:56",
+   "nueva_en": "2026-10-28T11:51:56"
+  },
+  "94387": {
+   "id": "94387",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94387/Casa-en-Alquiler-en-Misioneros-1435-Don-Bosco-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Misioneros 1435, Don Bosco, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 900000,
+   "dormitorios": 2,
+   "inmobiliaria": "GIROTTI SERVICIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/8ca0ba7a0cc5e074bdf2677bcec06c66.jpeg",
+   "lat": -38.7310332,
+   "lng": -62.2234928,
+   "visto_desde": "2026-10-31T18:00:08",
+   "nueva_en": "2026-10-31T18:00:08"
   },
   "93019": {
    "id": "93019",

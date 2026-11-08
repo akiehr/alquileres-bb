@@ -1,21 +1,6 @@
 {
- "actualizado": "2026-11-08T12:28:44",
+ "actualizado": "2026-11-08T18:33:26",
  "propiedades": {
-  "93731": {
-   "id": "93731",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93731/Casa-en-Alquiler-en-Thompson-858-Pedro-Pico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Thompson 858, Pedro Pico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "U$S",
-   "precio": 1000,
-   "dormitorios": 3,
-   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/756c553364d7a37a7a8c9a2882ea69be.jpg",
-   "lat": -38.7307532,
-   "lng": -62.2630704,
-   "visto_desde": "2026-10-16T19:49:56",
-   "nueva_en": "2026-10-16T19:49:56"
-  },
   "45583": {
    "id": "45583",
    "url": "https://www.bahiablancapropiedades.com/propiedad/45583/Casa-en-Alquiler-en-MILLAMAPU-300-Patagonia-Bahía-Blanca",
@@ -31,65 +16,20 @@
    "visto_desde": "2026-07-31T22:28:38",
    "nueva_en": null
   },
-  "94476": {
-   "id": "94476",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94476/Casa-en-Alquiler-en-Cordoba-315-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Cordoba 315, Universitario, Bahía Blanca",
+  "90735": {
+   "id": "90735",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/90735/Casa-en-Alquiler-en-Undiano-88-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Undiano 88, Centro, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 800000,
+   "precio": 1700000,
    "dormitorios": 2,
-   "inmobiliaria": "MORALES PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/bd4b617361df29bc1ed660a974398ddf.jpg",
-   "lat": -38.705622,
-   "lng": -62.2764502,
-   "visto_desde": "2026-11-03T02:47:53",
-   "nueva_en": "2026-11-03T02:47:53"
-  },
-  "94500": {
-   "id": "94500",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94500/Casa-en-Alquiler-en-Miñones-505-San-Martin-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Miñones 505, San Martin, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 600000,
-   "dormitorios": 1,
-   "inmobiliaria": "MARIA INES CANTARELLI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/4012045ec3af627c1803ea26f4501567.jpg",
-   "lat": -38.7373683,
-   "lng": -62.2781508,
-   "visto_desde": "2026-11-03T13:17:20",
-   "nueva_en": "2026-11-03T13:17:20"
-  },
-  "94390": {
-   "id": "94390",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94390/Casa-en-Alquiler-en-Thompson-903-Pedro-Pico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Thompson 903, Pedro Pico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1500000,
-   "dormitorios": 3,
-   "inmobiliaria": "CAPPELLA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/79b81a8aa4211fe123308fb7fe95f41e.jpg",
-   "lat": -38.7313882,
-   "lng": -62.2627596,
-   "visto_desde": "2026-11-01T12:20:57",
-   "nueva_en": "2026-11-01T12:20:57"
-  },
-  "66274": {
-   "id": "66274",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/66274/Casa-en-Alquiler-en-RODRIGUEZ-442-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en RODRIGUEZ 442, Macrocentro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 950000,
-   "dormitorios": 4,
-   "inmobiliaria": "MORALES PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/92c55ac1462937c58fbad55ddea031fc.jpg",
-   "lat": -38.712185,
-   "lng": -62.2630871,
-   "visto_desde": "2026-11-05T18:34:05",
-   "nueva_en": "2026-11-05T18:34:05"
+   "inmobiliaria": "NOCETI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fa0aa3190b3ff76aab98486d4c60ebcf.jpg",
+   "lat": -38.7248116,
+   "lng": -62.26111779999999,
+   "visto_desde": "2026-08-14T15:54:28",
+   "nueva_en": "2026-08-14T15:54:28"
   },
   "94206": {
    "id": "94206",
@@ -106,6 +46,36 @@
    "visto_desde": "2026-10-28T11:51:56",
    "nueva_en": "2026-10-28T11:51:56"
   },
+  "66274": {
+   "id": "66274",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/66274/Casa-en-Alquiler-en-RODRIGUEZ-442-Macrocentro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en RODRIGUEZ 442, Macrocentro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 950000,
+   "dormitorios": 4,
+   "inmobiliaria": "MORALES PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/92c55ac1462937c58fbad55ddea031fc.jpg",
+   "lat": -38.712185,
+   "lng": -62.2630871,
+   "visto_desde": "2026-11-05T18:34:05",
+   "nueva_en": "2026-11-05T18:34:05"
+  },
+  "94500": {
+   "id": "94500",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94500/Casa-en-Alquiler-en-Miñones-505-San-Martin-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Miñones 505, San Martin, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 600000,
+   "dormitorios": 1,
+   "inmobiliaria": "MARIA INES CANTARELLI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/4012045ec3af627c1803ea26f4501567.jpg",
+   "lat": -38.7373683,
+   "lng": -62.2781508,
+   "visto_desde": "2026-11-03T13:17:20",
+   "nueva_en": "2026-11-03T13:17:20"
+  },
   "92850": {
    "id": "92850",
    "url": "https://www.bahiablancapropiedades.com/propiedad/92850/Casa-en-Alquiler-en-12-DE-OCTUBRE-936-Universitario-Bahía-Blanca",
@@ -120,6 +90,21 @@
    "lng": -62.2660986,
    "visto_desde": "2026-09-25T23:53:10",
    "nueva_en": "2026-09-25T23:53:10"
+  },
+  "94476": {
+   "id": "94476",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94476/Casa-en-Alquiler-en-Cordoba-315-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Cordoba 315, Universitario, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 800000,
+   "dormitorios": 2,
+   "inmobiliaria": "MORALES PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/bd4b617361df29bc1ed660a974398ddf.jpg",
+   "lat": -38.705622,
+   "lng": -62.2764502,
+   "visto_desde": "2026-11-03T02:47:53",
+   "nueva_en": "2026-11-03T02:47:53"
   },
   "94205": {
    "id": "94205",
@@ -136,6 +121,36 @@
    "visto_desde": "2026-10-28T02:03:30",
    "nueva_en": "2026-10-28T02:03:30"
   },
+  "94390": {
+   "id": "94390",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94390/Casa-en-Alquiler-en-Thompson-903-Pedro-Pico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Thompson 903, Pedro Pico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1500000,
+   "dormitorios": 3,
+   "inmobiliaria": "CAPPELLA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/79b81a8aa4211fe123308fb7fe95f41e.jpg",
+   "lat": -38.7313882,
+   "lng": -62.2627596,
+   "visto_desde": "2026-11-01T12:20:57",
+   "nueva_en": "2026-11-01T12:20:57"
+  },
+  "93731": {
+   "id": "93731",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93731/Casa-en-Alquiler-en-Thompson-858-Pedro-Pico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Thompson 858, Pedro Pico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "U$S",
+   "precio": 1000,
+   "dormitorios": 3,
+   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/756c553364d7a37a7a8c9a2882ea69be.jpg",
+   "lat": -38.7307532,
+   "lng": -62.2630704,
+   "visto_desde": "2026-10-16T19:49:56",
+   "nueva_en": "2026-10-16T19:49:56"
+  },
   "68813": {
    "id": "68813",
    "url": "https://www.bahiablancapropiedades.com/propiedad/68813/Casa-en-Alquiler-en-Dorrego-209-Centro-Bahía-Blanca",
@@ -151,20 +166,20 @@
    "visto_desde": "2026-09-28T18:31:52",
    "nueva_en": "2026-09-28T18:31:52"
   },
-  "90735": {
-   "id": "90735",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/90735/Casa-en-Alquiler-en-Undiano-88-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Undiano 88, Centro, Bahía Blanca",
+  "94766": {
+   "id": "94766",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94766/Casa-en-Alquiler-en-Roberto-Arlt-500-Cooperación-II-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Roberto Arlt 500, Cooperación II, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1700000,
+   "precio": 850000,
    "dormitorios": 2,
-   "inmobiliaria": "NOCETI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fa0aa3190b3ff76aab98486d4c60ebcf.jpg",
-   "lat": -38.7248116,
-   "lng": -62.26111779999999,
-   "visto_desde": "2026-08-14T15:54:28",
-   "nueva_en": "2026-08-14T15:54:28"
+   "inmobiliaria": "RAMPAZZO INMOBILIARIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/21f33d8f851270c3dc09d45766c23634.jpg",
+   "lat": -38.6837919,
+   "lng": -62.2959677,
+   "visto_desde": "2026-11-08T18:33:26",
+   "nueva_en": "2026-11-08T18:33:26"
   },
   "78761": {
    "id": "78761",

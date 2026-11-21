@@ -1,35 +1,20 @@
 {
- "actualizado": "2026-11-20T18:59:35",
+ "actualizado": "2026-11-21T00:45:16",
  "propiedades": {
-  "94476": {
-   "id": "94476",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94476/Casa-en-Alquiler-en-Cordoba-315-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Cordoba 315, Universitario, Bahía Blanca",
+  "93793": {
+   "id": "93793",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93793/Casa-en-Alquiler-en-Undiano-14-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Undiano 14, Centro, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 800000,
-   "dormitorios": 2,
-   "inmobiliaria": "MORALES PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/bd4b617361df29bc1ed660a974398ddf.jpg",
-   "lat": -38.705622,
-   "lng": -62.2764502,
-   "visto_desde": "2026-11-03T02:47:53",
-   "nueva_en": "2026-11-03T02:47:53"
-  },
-  "94205": {
-   "id": "94205",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94205/Casa-en-Alquiler-en-Zelarrayan-950-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Zelarrayan 950,  Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1200000,
-   "dormitorios": 2,
-   "inmobiliaria": "CAPPELLA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/eea6c148d8125fa5fa90a4c9be212161.jpg",
-   "lat": -38.7087665,
-   "lng": -62.2753988,
-   "visto_desde": "2026-10-28T02:03:30",
-   "nueva_en": "2026-10-28T02:03:30"
+   "precio": 1500000,
+   "dormitorios": 3,
+   "inmobiliaria": "SERGIO MAGARIñOS PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/4966b6b9e595401b03e209583d2e874e.png",
+   "lat": -38.7237547,
+   "lng": -62.2598291,
+   "visto_desde": "2026-10-19T17:22:14",
+   "nueva_en": "2026-10-19T17:22:14"
   },
   "94206": {
    "id": "94206",
@@ -46,6 +31,21 @@
    "visto_desde": "2026-10-28T11:51:56",
    "nueva_en": "2026-10-28T11:51:56"
   },
+  "92850": {
+   "id": "92850",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/92850/Casa-en-Alquiler-en-12-DE-OCTUBRE-936-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en 12 DE OCTUBRE 936, Universitario, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1600000,
+   "dormitorios": 3,
+   "inmobiliaria": "MORALES PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/723fc21919e5a20316f677cf8292a239.jpg",
+   "lat": -38.703574,
+   "lng": -62.2660986,
+   "visto_desde": "2026-09-25T23:53:10",
+   "nueva_en": "2026-09-25T23:53:10"
+  },
   "90735": {
    "id": "90735",
    "url": "https://www.bahiablancapropiedades.com/propiedad/90735/Casa-en-Alquiler-en-Undiano-88-Centro-Bahía-Blanca",
@@ -60,6 +60,21 @@
    "lng": -62.26111779999999,
    "visto_desde": "2026-08-14T15:54:28",
    "nueva_en": "2026-08-14T15:54:28"
+  },
+  "94205": {
+   "id": "94205",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94205/Casa-en-Alquiler-en-Zelarrayan-950-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Zelarrayan 950,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1200000,
+   "dormitorios": 2,
+   "inmobiliaria": "CAPPELLA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/eea6c148d8125fa5fa90a4c9be212161.jpg",
+   "lat": -38.7087665,
+   "lng": -62.2753988,
+   "visto_desde": "2026-10-28T02:03:30",
+   "nueva_en": "2026-10-28T02:03:30"
   },
   "93731": {
    "id": "93731",
@@ -76,35 +91,20 @@
    "visto_desde": "2026-10-16T19:49:56",
    "nueva_en": "2026-10-16T19:49:56"
   },
-  "93793": {
-   "id": "93793",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93793/Casa-en-Alquiler-en-Undiano-14-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Undiano 14, Centro, Bahía Blanca",
+  "94476": {
+   "id": "94476",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94476/Casa-en-Alquiler-en-Cordoba-315-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Cordoba 315, Universitario, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1500000,
-   "dormitorios": 3,
-   "inmobiliaria": "SERGIO MAGARIñOS PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/4966b6b9e595401b03e209583d2e874e.png",
-   "lat": -38.7237547,
-   "lng": -62.2598291,
-   "visto_desde": "2026-10-19T17:22:14",
-   "nueva_en": "2026-10-19T17:22:14"
-  },
-  "92850": {
-   "id": "92850",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/92850/Casa-en-Alquiler-en-12-DE-OCTUBRE-936-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en 12 DE OCTUBRE 936, Universitario, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1600000,
-   "dormitorios": 3,
+   "precio": 800000,
+   "dormitorios": 2,
    "inmobiliaria": "MORALES PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/723fc21919e5a20316f677cf8292a239.jpg",
-   "lat": -38.703574,
-   "lng": -62.2660986,
-   "visto_desde": "2026-09-25T23:53:10",
-   "nueva_en": "2026-09-25T23:53:10"
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/bd4b617361df29bc1ed660a974398ddf.jpg",
+   "lat": -38.705622,
+   "lng": -62.2764502,
+   "visto_desde": "2026-11-03T02:47:53",
+   "nueva_en": "2026-11-03T02:47:53"
   },
   "95328": {
    "id": "95328",

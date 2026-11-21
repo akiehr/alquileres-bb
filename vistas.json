@@ -1,36 +1,6 @@
 {
- "actualizado": "2026-11-21T13:55:09",
+ "actualizado": "2026-11-21T20:17:39",
  "propiedades": {
-  "93793": {
-   "id": "93793",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93793/Casa-en-Alquiler-en-Undiano-14-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Undiano 14, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1500000,
-   "dormitorios": 3,
-   "inmobiliaria": "SERGIO MAGARIñOS PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/4966b6b9e595401b03e209583d2e874e.png",
-   "lat": -38.7237547,
-   "lng": -62.2598291,
-   "visto_desde": "2026-10-19T17:22:14",
-   "nueva_en": "2026-10-19T17:22:14"
-  },
-  "93731": {
-   "id": "93731",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93731/Casa-en-Alquiler-en-Thompson-858-Pedro-Pico-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Thompson 858, Pedro Pico, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "U$S",
-   "precio": 1000,
-   "dormitorios": 3,
-   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/756c553364d7a37a7a8c9a2882ea69be.jpg",
-   "lat": -38.7307532,
-   "lng": -62.2630704,
-   "visto_desde": "2026-10-16T19:49:56",
-   "nueva_en": "2026-10-16T19:49:56"
-  },
   "94205": {
    "id": "94205",
    "url": "https://www.bahiablancapropiedades.com/propiedad/94205/Casa-en-Alquiler-en-Zelarrayan-950-Bahía-Blanca",
@@ -45,6 +15,21 @@
    "lng": -62.2753988,
    "visto_desde": "2026-10-28T02:03:30",
    "nueva_en": "2026-10-28T02:03:30"
+  },
+  "94206": {
+   "id": "94206",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94206/Casa-en-Alquiler-en-Berutti-645-Macrocentro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Berutti 645, Macrocentro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 900000,
+   "dormitorios": 2,
+   "inmobiliaria": "CAPPELLA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a0a7f99d16a8ab2ae731f965efbe769a.jpg",
+   "lat": -38.7272249,
+   "lng": -62.2634674,
+   "visto_desde": "2026-10-28T11:51:56",
+   "nueva_en": "2026-10-28T11:51:56"
   },
   "94476": {
    "id": "94476",
@@ -76,20 +61,35 @@
    "visto_desde": "2026-08-14T15:54:28",
    "nueva_en": "2026-08-14T15:54:28"
   },
-  "94206": {
-   "id": "94206",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94206/Casa-en-Alquiler-en-Berutti-645-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Berutti 645, Macrocentro, Bahía Blanca",
+  "93793": {
+   "id": "93793",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93793/Casa-en-Alquiler-en-Undiano-14-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Undiano 14, Centro, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 900000,
-   "dormitorios": 2,
-   "inmobiliaria": "CAPPELLA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a0a7f99d16a8ab2ae731f965efbe769a.jpg",
-   "lat": -38.7272249,
-   "lng": -62.2634674,
-   "visto_desde": "2026-10-28T11:51:56",
-   "nueva_en": "2026-10-28T11:51:56"
+   "precio": 1500000,
+   "dormitorios": 3,
+   "inmobiliaria": "SERGIO MAGARIñOS PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/4966b6b9e595401b03e209583d2e874e.png",
+   "lat": -38.7237547,
+   "lng": -62.2598291,
+   "visto_desde": "2026-10-19T17:22:14",
+   "nueva_en": "2026-10-19T17:22:14"
+  },
+  "93731": {
+   "id": "93731",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93731/Casa-en-Alquiler-en-Thompson-858-Pedro-Pico-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Thompson 858, Pedro Pico, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "U$S",
+   "precio": 1000,
+   "dormitorios": 3,
+   "inmobiliaria": "PRESTIGIO NEGOCIOS INMOBILIARIOS",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/756c553364d7a37a7a8c9a2882ea69be.jpg",
+   "lat": -38.7307532,
+   "lng": -62.2630704,
+   "visto_desde": "2026-10-16T19:49:56",
+   "nueva_en": "2026-10-16T19:49:56"
   },
   "92850": {
    "id": "92850",
@@ -105,6 +105,21 @@
    "lng": -62.2660986,
    "visto_desde": "2026-09-25T23:53:10",
    "nueva_en": "2026-09-25T23:53:10"
+  },
+  "95357": {
+   "id": "95357",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/95357/Casa-en-Alquiler-en-Roca-Al-1100-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Roca Al 1100,  Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 750000,
+   "dormitorios": 2,
+   "inmobiliaria": "FRANCO PROPIEDADES BAHIA",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/759bc80244b65014b02f901697eb3ec3.jpeg",
+   "lat": -38.725299,
+   "lng": -62.2837539,
+   "visto_desde": "2026-11-21T20:17:39",
+   "nueva_en": "2026-11-21T20:17:39"
   },
   "78566": {
    "id": "78566",
@@ -1428,16 +1443,16 @@
   },
   "95305": {
    "id": "95305",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/95305/Casa-en-Alquiler-en-Irigoyen-750-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Irigoyen 750, Macrocentro, Bahía Blanca",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/95305/Casa-en-Alquiler-en-Irigoyen-950-Macrocentro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Irigoyen 950, Macrocentro, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1000000,
+   "precio": 1100000,
    "dormitorios": 2,
    "inmobiliaria": "ZOPPI NEGOCIOS INMOBILIARIOS",
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/no-image.png",
-   "lat": -38.7107312,
-   "lng": -62.2577205,
+   "lat": -38.7096283,
+   "lng": -62.25589350000001,
    "visto_desde": "2026-11-20T02:05:34",
    "nueva_en": "2026-11-20T02:05:34"
   },
@@ -2013,8 +2028,8 @@
   },
   "95329": {
    "id": "95329",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/95329/Casa-en-Alquiler-en-Guido-Espano-3497-Villa-Belgrano-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Guido Espano 3497, Villa Belgrano, Bahía Blanca",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/95329/Casa-en-Alquiler-en-Guido-Spano-3497-Villa-Belgrano-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Guido Spano 3497, Villa Belgrano, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
    "precio": 1200000,

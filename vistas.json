@@ -1,21 +1,6 @@
 {
- "actualizado": "2026-11-23T16:53:13",
+ "actualizado": "2026-11-23T22:29:10",
  "propiedades": {
-  "90735": {
-   "id": "90735",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/90735/Casa-en-Alquiler-en-Undiano-88-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Undiano 88, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1700000,
-   "dormitorios": 2,
-   "inmobiliaria": "NOCETI PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fa0aa3190b3ff76aab98486d4c60ebcf.jpg",
-   "lat": -38.7248116,
-   "lng": -62.26111779999999,
-   "visto_desde": "2026-08-14T15:54:28",
-   "nueva_en": "2026-08-14T15:54:28"
-  },
   "94205": {
    "id": "94205",
    "url": "https://www.bahiablancapropiedades.com/propiedad/94205/Casa-en-Alquiler-en-Zelarrayan-950-Bahía-Blanca",
@@ -30,6 +15,21 @@
    "lng": -62.2753988,
    "visto_desde": "2026-10-28T02:03:30",
    "nueva_en": "2026-10-28T02:03:30"
+  },
+  "94476": {
+   "id": "94476",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94476/Casa-en-Alquiler-en-Cordoba-315-Universitario-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Cordoba 315, Universitario, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 800000,
+   "dormitorios": 2,
+   "inmobiliaria": "MORALES PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/bd4b617361df29bc1ed660a974398ddf.jpg",
+   "lat": -38.705622,
+   "lng": -62.2764502,
+   "visto_desde": "2026-11-03T02:47:53",
+   "nueva_en": "2026-11-03T02:47:53"
   },
   "92850": {
    "id": "92850",
@@ -46,20 +46,20 @@
    "visto_desde": "2026-09-25T23:53:10",
    "nueva_en": "2026-09-25T23:53:10"
   },
-  "94206": {
-   "id": "94206",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94206/Casa-en-Alquiler-en-Berutti-645-Macrocentro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Berutti 645, Macrocentro, Bahía Blanca",
+  "93793": {
+   "id": "93793",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/93793/Casa-en-Alquiler-en-Undiano-14-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Undiano 14, Centro, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 900000,
-   "dormitorios": 2,
-   "inmobiliaria": "CAPPELLA PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a0a7f99d16a8ab2ae731f965efbe769a.jpg",
-   "lat": -38.7272249,
-   "lng": -62.2634674,
-   "visto_desde": "2026-10-28T11:51:56",
-   "nueva_en": "2026-10-28T11:51:56"
+   "precio": 1500000,
+   "dormitorios": 3,
+   "inmobiliaria": "SERGIO MAGARIñOS PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/4966b6b9e595401b03e209583d2e874e.png",
+   "lat": -38.7237547,
+   "lng": -62.2598291,
+   "visto_desde": "2026-10-19T17:22:14",
+   "nueva_en": "2026-10-19T17:22:14"
   },
   "93731": {
    "id": "93731",
@@ -75,21 +75,6 @@
    "lng": -62.2630704,
    "visto_desde": "2026-10-16T19:49:56",
    "nueva_en": "2026-10-16T19:49:56"
-  },
-  "93793": {
-   "id": "93793",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/93793/Casa-en-Alquiler-en-Undiano-14-Centro-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Undiano 14, Centro, Bahía Blanca",
-   "tipo": "Casa",
-   "moneda": "$",
-   "precio": 1500000,
-   "dormitorios": 3,
-   "inmobiliaria": "SERGIO MAGARIñOS PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/4966b6b9e595401b03e209583d2e874e.png",
-   "lat": -38.7237547,
-   "lng": -62.2598291,
-   "visto_desde": "2026-10-19T17:22:14",
-   "nueva_en": "2026-10-19T17:22:14"
   },
   "95304": {
    "id": "95304",
@@ -121,20 +106,35 @@
    "visto_desde": "2026-11-23T16:53:13",
    "nueva_en": "2026-11-23T16:53:13"
   },
-  "94476": {
-   "id": "94476",
-   "url": "https://www.bahiablancapropiedades.com/propiedad/94476/Casa-en-Alquiler-en-Cordoba-315-Universitario-Bahía-Blanca",
-   "titulo": "Casa en Alquiler en Cordoba 315, Universitario, Bahía Blanca",
+  "94206": {
+   "id": "94206",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/94206/Casa-en-Alquiler-en-Berutti-645-Macrocentro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Berutti 645, Macrocentro, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 800000,
+   "precio": 900000,
    "dormitorios": 2,
-   "inmobiliaria": "MORALES PROPIEDADES",
-   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/bd4b617361df29bc1ed660a974398ddf.jpg",
-   "lat": -38.705622,
-   "lng": -62.2764502,
-   "visto_desde": "2026-11-03T02:47:53",
-   "nueva_en": "2026-11-03T02:47:53"
+   "inmobiliaria": "CAPPELLA PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a0a7f99d16a8ab2ae731f965efbe769a.jpg",
+   "lat": -38.7272249,
+   "lng": -62.2634674,
+   "visto_desde": "2026-10-28T11:51:56",
+   "nueva_en": "2026-10-28T11:51:56"
+  },
+  "90735": {
+   "id": "90735",
+   "url": "https://www.bahiablancapropiedades.com/propiedad/90735/Casa-en-Alquiler-en-Undiano-88-Centro-Bahía-Blanca",
+   "titulo": "Casa en Alquiler en Undiano 88, Centro, Bahía Blanca",
+   "tipo": "Casa",
+   "moneda": "$",
+   "precio": 1700000,
+   "dormitorios": 2,
+   "inmobiliaria": "NOCETI PROPIEDADES",
+   "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/fa0aa3190b3ff76aab98486d4c60ebcf.jpg",
+   "lat": -38.7248116,
+   "lng": -62.26111779999999,
+   "visto_desde": "2026-08-14T15:54:28",
+   "nueva_en": "2026-08-14T15:54:28"
   },
   "92691": {
    "id": "92691",
@@ -2152,7 +2152,7 @@
    "titulo": "Casa en Alquiler en Washington 1300, Villa Mitre, Bahía Blanca",
    "tipo": "Casa",
    "moneda": "$",
-   "precio": 1400000,
+   "precio": 1300000,
    "dormitorios": 2,
    "inmobiliaria": "SALVUCCI PROPIEDADES",
    "imagen": "https://www.bahiablancapropiedades.com/assets/img/propiedades/thumbs/a84f0b7b32beb97844c4bc9f0832715c.png",
